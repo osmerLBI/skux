@@ -30,23 +30,30 @@ class App extends StatelessWidget {
   GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 
   ValueNotifier<GraphQLClient> getGraphQLClient(BuildContext context) {
-    final AuthenticationState authenticationState = Provider.of<AuthenticationState>(context, listen: false);
+    final AuthenticationState authenticationState =
+        Provider.of<AuthenticationState>(context, listen: false);
 
     Link link;
     final HttpLink httpLink = HttpLink(
       'https://stageapp.skux.io/v1/graphql',
     );
+    VLog(authenticationToken);
+    VLog(refreshToken);
 
     if (authenticationToken != authenticationState.authenticationToken) {
       VLog("OH NO!!!");
     }
 
-    if (authenticationToken != null && refreshToken != null && expirationTimestamp != null) {
-      authenticationState.didAuthenticate(authenticationToken, refreshToken, expirationTimestamp);
+    if (authenticationToken != null &&
+        refreshToken != null &&
+        expirationTimestamp != null) {
+      authenticationState.didAuthenticate(
+          authenticationToken, refreshToken, expirationTimestamp);
     }
 
     final AuthLink authLink = AuthLink(
-      getToken: () async => 'Bearer ${await Future.value(authenticationState.authenticationToken)}',
+      getToken: () async =>
+          'Bearer ${await Future.value(authenticationState.authenticationToken)}',
     );
     link = authLink.concat(httpLink);
 
@@ -92,7 +99,8 @@ class App extends StatelessWidget {
                       child: AppTheme(
                         child: MediaQuery(
                           child: child,
-                          data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0),
+                          data: MediaQuery.of(context)
+                              .copyWith(textScaleFactor: 1.0),
                         ),
                       ),
                     )),

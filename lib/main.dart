@@ -48,6 +48,7 @@ void main() async {
   final int expirationTimestamp = prefs.getInt('expirationTimestamp');
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
+
   runApp(MultiProvider(
     providers: [
       ChangeNotifierProvider(create: (context) => AuthenticationState()),

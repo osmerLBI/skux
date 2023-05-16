@@ -29,6 +29,7 @@ import 'package:graphql_flutter/graphql_flutter.dart';
 // import 'package:span_mobile/pages/skux/main/wallet/google_pay.dart';
 // import 'package:span_mobile/pages/skux/main/wallet/google_wallet.dart';
 import 'package:span_mobile/pages/skux/main/wallet/wallet_apple.dart';
+import 'package:span_mobile/pages/skux/main/wallet/wallet_apple_dynamic.dart';
 
 class WalletPage extends StatefulWidget {
   const WalletPage({String uuid, Key key}) : super(key: key);
@@ -705,8 +706,35 @@ class _WalletPageState extends EventHubState<WalletPage> {
                 width: 182,
                 height: 40,
                 text: Platform.isIOS == true
-                    ? tr('Open  Pay')
-                    : tr('Open Google Pay'),
+                    ? tr('Open  Wallet')
+                    : tr('Open Google Wallet'),
+                fontSize: 15,
+                weight: FontWeight.w600,
+                textColor: Colors.white,
+                color: style.primaryColor)),
+        Semantics(
+            button: true,
+            child: JhButton(
+                onPressed: () {
+                  showModalBottomSheet(
+                    context: context,
+                    // enableDrag: false,
+                    // isDismissible: false,
+                    builder: (context) {
+                      return Wrap(
+                        children: [
+                          AppleWalletDynamic(offer: item),
+                        ],
+                      );
+                    },
+                  );
+                },
+                borderRadius: BorderRadius.circular(8),
+                width: 182,
+                height: 40,
+                text: Platform.isIOS == true
+                    ? tr('Dynamic  Wallet')
+                    : tr('Dynamic Google Wallet'),
                 fontSize: 15,
                 weight: FontWeight.w600,
                 textColor: Colors.white,

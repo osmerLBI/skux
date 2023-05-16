@@ -31,8 +31,8 @@ class _AppleWalletDynamic extends State<AppleWalletDynamic> {
         format: SkuxInfo.dateTimeFormat);
     String offerUUID = offerItem['uuid'];
 
-    final pass = await passProviderDynamic(
-        description, expiresAt, offerUUID, widget.offer['userCard']);
+    final pass = await passProviderDynamic(description, expiresAt, offerUUID,
+        widget.offer['userCard']['accountNumber']);
 
     if (!mounted) return;
 

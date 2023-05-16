@@ -55,7 +55,7 @@ Future<File> downloadPass(String passUrl) async {
   }
 }
 
-final Future<Uint8List> Function() passProvider = () async {
+Future<Uint8List> passProvider() async {
   File pkpassFile = null;
   bool result = await request();
   if (result) {
@@ -70,4 +70,4 @@ final Future<Uint8List> Function() passProvider = () async {
   print(pass.toString());
   print("*******************************************************************");
   return pass;
-};
+}

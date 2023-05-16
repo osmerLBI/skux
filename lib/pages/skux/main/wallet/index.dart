@@ -27,7 +27,7 @@ import 'package:span_mobile/widgets/no_data_tip.dart';
 import 'package:widget_loading/widget_loading.dart';
 import 'package:graphql_flutter/graphql_flutter.dart';
 // import 'package:span_mobile/pages/skux/main/wallet/google_pay.dart';
-// import 'package:span_mobile/pages/skux/main/wallet/google_wallet.dart'; 
+// import 'package:span_mobile/pages/skux/main/wallet/google_wallet.dart';
 import 'package:span_mobile/pages/skux/main/wallet/wallet_apple.dart';
 
 class WalletPage extends StatefulWidget {
@@ -682,7 +682,36 @@ class _WalletPageState extends EventHubState<WalletPage> {
   Widget _googleWallet(Map item) {
     return Center(
         child: Column(
-      children: [_offerCard(item), AppleWallet(offer: item)],
+      children: [
+        _offerCard(item),
+        Semantics(
+            button: true,
+            child: JhButton(
+                onPressed: () {
+                  showModalBottomSheet(
+                    context: context,
+                    // enableDrag: false,
+                    // isDismissible: false,
+                    builder: (context) {
+                      return Wrap(
+                        children: [
+                          AppleWallet(offer: item),
+                        ],
+                      );
+                    },
+                  );
+                },
+                borderRadius: BorderRadius.circular(8),
+                width: 182,
+                height: 40,
+                text: Platform.isIOS == true
+                    ? tr('Open  Pay')
+                    : tr('Open Google Pay'),
+                fontSize: 15,
+                weight: FontWeight.w600,
+                textColor: Colors.white,
+                color: style.primaryColor)),
+      ],
     ));
   }
 

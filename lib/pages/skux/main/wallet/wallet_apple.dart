@@ -1,3 +1,4 @@
+import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:span_mobile/common/pass/pass_provider.dart';
 import 'package:add_to_wallet/add_to_wallet.dart';
@@ -18,7 +19,7 @@ class _AppleWallet extends State<AppleWallet> {
   @override
   void initState() {
     super.initState();
-    initPlatformState();
+    // initPlatformState();
   }
 
   Future<void> initPlatformState() async {
@@ -34,23 +35,51 @@ class _AppleWallet extends State<AppleWallet> {
 
   @override
   Widget build(BuildContext context) {
+    // initPlatformState();
+    if (Platform.isIOS) {
+      initPlatformState();
+    } else {
+      setState(() {
+        _passLoaded = true;
+      });
+    }
+
     return (Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       mainAxisSize: MainAxisSize.min,
       children: <Widget>[
-        Column(children: [
-          _passLoaded
-              ? AddToWalletButton(
-                  pkPass: _pkPassData,
-                  width: 150,
-                  height: 100,
-                  unsupportedPlatformChild: GoogleWallet(offer: widget.offer),
-                  onPressed: () {
-                    print("🎊Add to Wallet button Pressed!🎊");
-                  },
-                )
-              : CircularProgressIndicator()
-        ]),
+        Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Center(
+                child: Container(
+                  width: MediaQuery.of(context).size.width,
+                  height: MediaQuery.of(context).size.height * 0.3,
+                  color: Colors.white,
+                  child: Center(
+                    child: _passLoaded
+                        ? AddToWalletButton(
+                            pkPass: _pkPassData,
+                            unsupportedPlatformChild:
+                                GoogleWallet(offer: widget.offer),
+                            onPressed: () {
+                              print("🎊Add to Wallet button Pressed!🎊");
+                            },
+                          )
+                        : Center(
+                            child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text('Loading Pass ....'),
+                              Container(height: 16),
+                              CircularProgressIndicator()
+                            ],
+                          )),
+                  ),
+                ),
+              ),
+            ]),
       ],
     ));
   }

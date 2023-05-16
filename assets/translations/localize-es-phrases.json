@@ -1,0 +1,6570 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguage": "es",
+  "dictionary": [
+    {
+      "id": "622c8f93a23bfaefdff98493",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Refresh exchange rate",
+      "translation": {
+        "Refresh exchange rate": {
+          "value": "Actualizar tipo de cambio"
+        }
+      }
+    },
+    {
+      "id": "621c72c58fe8b5159890a038",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Privacy Policy",
+      "translation": {
+        "Privacy Policy": {
+          "value": "Política de privacidad"
+        }
+      }
+    },
+    {
+      "id": "621c72bbdfaf698c51d9ba69",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terms Of Use",
+      "translation": {
+        "Terms Of Use": {
+          "value": "Condiciones de uso"
+        }
+      }
+    },
+    {
+      "id": "621c41ed0a64a4b26bf9bdb5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "people to sign up will receive a free spendr credit after our beta.",
+      "translation": {
+        "people to sign up will receive a free spendr credit after our beta.": {
+          "value": "las personas que se registren recibirán un crédito de gasto gratuito después de nuestra versión beta."
+        }
+      }
+    },
+    {
+      "id": "61f3a8e45814620741de51d4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Uh oh you hit your monthly load limit of 3k To increase your limits to 5K monthly please verify your identity",
+      "translation": {
+        "Uh oh you hit your monthly load limit of 3k To increase your limits to 5K monthly please verify your identity": {
+          "value": "Uh oh, alcanzaste tu límite de carga mensual de 3k Para aumentar tus límites a 5K mensuales, verifica tu identidad"
+        }
+      }
+    },
+    {
+      "id": "61efdf528cdd766404fb23e7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Product Description",
+      "translation": {
+        "Product Description": {
+          "value": "Descripción del producto"
+        }
+      }
+    },
+    {
+      "id": "61efdd8dd20465157607dabf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the CBD value",
+      "translation": {
+        "Please enter the CBD value": {
+          "value": "Por favor ingrese el valor de CBD"
+        }
+      }
+    },
+    {
+      "id": "61efdc9919d20ba7745e1d45",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the THC value",
+      "translation": {
+        "Please enter the THC value": {
+          "value": "Por favor, introduzca el valor de THC"
+        }
+      }
+    },
+    {
+      "id": "61efdbf78cdd766404f90567",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please select the primary effect",
+      "translation": {
+        "Please select the primary effect": {
+          "value": "Selecciona el efecto principal"
+        }
+      }
+    },
+    {
+      "id": "61efdbb08cdd766404f8e2d5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the strain name",
+      "translation": {
+        "Please enter the strain name": {
+          "value": "Por favor ingrese el nombre de la cepa"
+        }
+      }
+    },
+    {
+      "id": "61efdad1815c13b3c6112878",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please select the product type",
+      "translation": {
+        "Please select the product type": {
+          "value": "Por favor seleccione el tipo de producto"
+        }
+      }
+    },
+    {
+      "id": "61efd921815c13b3c61068ca",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the product name",
+      "translation": {
+        "Please enter the product name": {
+          "value": "Por favor ingrese el nombre del producto"
+        }
+      }
+    },
+    {
+      "id": "61efa836d204651576e4563c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please upload the product image",
+      "translation": {
+        "Please upload the product image": {
+          "value": "Sube la imagen del producto."
+        }
+      }
+    },
+    {
+      "id": "61e954fcb8e91d120d29126c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Pay Stubs",
+      "translation": {
+        "Pay Stubs": {
+          "value": "Talones de pago"
+        }
+      }
+    },
+    {
+      "id": "61e0f605ce34b6d09fc183d1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please try again",
+      "translation": {
+        "Please try again": {
+          "value": "Inténtalo de nuevo"
+        }
+      }
+    },
+    {
+      "id": "61ceff2f02cdb92d76a00811",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your refunds will arrive in 1-3 business days.",
+      "translation": {
+        "Your refunds will arrive in 1-3 business days.": {
+          "value": "Sus reembolsos llegarán en 1-3 días hábiles."
+        }
+      }
+    },
+    {
+      "id": "61cefe964f5ba5fe89840292",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Deposit Successful",
+      "translation": {
+        "Deposit Successful": {
+          "value": "Depósito exitoso"
+        }
+      }
+    },
+    {
+      "id": "61cefe874f5ba5fe898401d2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Unload Successful",
+      "translation": {
+        "Unload Successful": {
+          "value": "Descarga exitosa"
+        }
+      }
+    },
+    {
+      "id": "61cefb37d49c4462af6f01d1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Unload Total",
+      "translation": {
+        "Unload Total": {
+          "value": "Descargar total"
+        }
+      }
+    },
+    {
+      "id": "61cefaf102cdb92d769fb515",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Unload",
+      "translation": {
+        "Unload": {
+          "value": "Descargar"
+        }
+      }
+    },
+    {
+      "id": "61c5752e777466d4caed36cf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Re Upload",
+      "translation": {
+        "Re Upload": {
+          "value": "Volver a subir"
+        }
+      }
+    },
+    {
+      "id": "61c573318c139dc4c8cb925c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Reupload",
+      "translation": {
+        "Reupload": {
+          "value": "Volver a cargar"
+        }
+      }
+    },
+    {
+      "id": "61c19b1320d909ea0a73b4a0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please add a bank",
+      "translation": {
+        "Please add a bank": {
+          "value": "Por favor agregue un banco"
+        }
+      }
+    },
+    {
+      "id": "61c087b171a656a9a943a1ff",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your identity was verified and your spending limits have been increased.",
+      "translation": {
+        "Your identity was verified and your spending limits have been increased.": {
+          "value": "Se verificó su identidad y se aumentaron sus límites de gasto."
+        }
+      }
+    },
+    {
+      "id": "61c05d7c71a656a9a93c3ed4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Support Team",
+      "translation": {
+        "Support Team": {
+          "value": "Equipo de apoyo"
+        }
+      }
+    },
+    {
+      "id": "61c05d16e4e7b6e960496d05",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "If you have any question about this failed upload please contact our",
+      "translation": {
+        "If you have any question about this failed upload please contact our": {
+          "value": "Si tiene alguna pregunta sobre esta carga fallida, comuníquese con nuestro"
+        }
+      }
+    },
+    {
+      "id": "61c0522071a656a9a93a90b4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "We were unable to verify your documents.",
+      "translation": {
+        "We were unable to verify your documents.": {
+          "value": "No pudimos verificar sus documentos."
+        }
+      }
+    },
+    {
+      "id": "61c0503bfc67f5e9046ddb69",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Uh-Oh!",
+      "translation": {
+        "Uh-Oh!": {
+          "value": "¡UH oh!"
+        }
+      }
+    },
+    {
+      "id": "61c045e646d66816ebf4fc32",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Enter 4 Digit Code",
+      "translation": {
+        "Enter 4 Digit Code": {
+          "value": "Ingrese el código de 4 dígitos"
+        }
+      }
+    },
+    {
+      "id": "61c01e1e46d66816ebecca35",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please upload back side of your driver license",
+      "translation": {
+        "Please upload back side of your driver license": {
+          "value": "Cargue el reverso de su licencia de conducir"
+        }
+      }
+    },
+    {
+      "id": "61b993e8c34d0723a099738a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Upload Documents",
+      "translation": {
+        "Upload Documents": {
+          "value": "subir documentos"
+        }
+      }
+    },
+    {
+      "id": "61b9816ac5c719a48fa3d4b9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Tap here to upload or take a picture with your camera of the documents.",
+      "translation": {
+        "Tap here to upload or take a picture with your camera of the documents.": {
+          "value": "Toque aquí para cargar o tomar una foto con su cámara de los documentos."
+        }
+      }
+    },
+    {
+      "id": "61b97003c34d0723a08d2248",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Select document type",
+      "translation": {
+        "Select document type": {
+          "value": "Seleccionar tipo de documento"
+        }
+      }
+    },
+    {
+      "id": "61b95e46c5c719a48f957aa7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Upload via camera roll or take a picture on a flat surface of the documentation that you are submitting for account verification.",
+      "translation": {
+        "Upload via camera roll or take a picture on a flat surface of the documentation that you are submitting for account verification.": {
+          "value": "Sube a través del carrete de la cámara o toma una foto en una superficie plana de la documentación que estás enviando para la verificación de la cuenta."
+        }
+      }
+    },
+    {
+      "id": "61b95b9a0b5069fd5d6feeff",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please verify your account to load additional funds",
+      "translation": {
+        "Please verify your account to load additional funds": {
+          "value": "Verifique su cuenta para cargar fondos adicionales"
+        }
+      }
+    },
+    {
+      "id": "61b74c91dcf1a4a038c2fab8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Store and rate products right in the Spendr app! Keep your favorite products always at your fingertips!",
+      "translation": {
+        "Store and rate products right in the Spendr app! Keep your favorite products always at your fingertips!": {
+          "value": "¡Almacene y califique productos directamente en la aplicación Spendr! ¡Mantenga sus productos favoritos siempre a su alcance!"
+        }
+      }
+    },
+    {
+      "id": "61b74c65c654e69952a8df40",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Never again!",
+      "translation": {
+        "Never again!": {
+          "value": "¡Nunca más!"
+        }
+      }
+    },
+    {
+      "id": "61b74c09c654e69952a8b469",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Forget what you bought last time?",
+      "translation": {
+        "Forget what you bought last time?": {
+          "value": "¿Olvidas lo que compraste la última vez?"
+        }
+      }
+    },
+    {
+      "id": "61b74beedcf1a4a038c2a48d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My Products Coming Soon",
+      "translation": {
+        "My Products Coming Soon": {
+          "value": "Mis Productos Próximamente"
+        }
+      }
+    },
+    {
+      "id": "61b722c47f78142951af0b36",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Big Spendrs earn money with each spending challenge completed.",
+      "translation": {
+        "Big Spendrs earn money with each spending challenge completed.": {
+          "value": "Los grandes gastadores ganan dinero con cada desafío de gasto completado."
+        }
+      }
+    },
+    {
+      "id": "61b72259c654e69952949972",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "people to sign up will receive a free spendr credit on",
+      "translation": {
+        "people to sign up will receive a free spendr credit on": {
+          "value": "las personas que se registren recibirán un crédito de gasto gratuito en"
+        }
+      }
+    },
+    {
+      "id": "61b72155d8fe94414f2257ac",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The first",
+      "translation": {
+        "The first": {
+          "value": "La primera"
+        }
+      }
+    },
+    {
+      "id": "61b71f8fdcf1a4a038acd27e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Get rewarded for being an early adopter!",
+      "translation": {
+        "Get rewarded for being an early adopter!": {
+          "value": "¡Obtenga recompensas por ser uno de los primeros en adoptar!"
+        }
+      }
+    },
+    {
+      "id": "61b71ef5d8fe94414f214d4b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Spendr Rewards Coming Soon",
+      "translation": {
+        "Spendr Rewards Coming Soon": {
+          "value": "Próximamente Spendr Rewards"
+        }
+      }
+    },
+    {
+      "id": "61b0c98b0f2d96c298d6aae2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Biometrics not available",
+      "translation": {
+        "Biometrics not available": {
+          "value": "Biometría no disponible"
+        }
+      }
+    },
+    {
+      "id": "61aefd994ae98c559b912e9d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please open biometrics or set using pin code in setting page.",
+      "translation": {
+        "Please open biometrics or set using pin code in setting page.": {
+          "value": "Abra la biometría o configure usando el código pin en la página de configuración."
+        }
+      }
+    },
+    {
+      "id": "61adc6deee7d1788e3d7eb08",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "PIN Auth",
+      "translation": {
+        "PIN Auth": {
+          "value": "Autenticación de PIN"
+        }
+      }
+    },
+    {
+      "id": "61adc6cb5a2a6b6e70c5c195",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Biometric Auth",
+      "translation": {
+        "Biometric Auth": {
+          "value": "Autenticación biométrica"
+        }
+      }
+    },
+    {
+      "id": "61adbe3d5a2a6b6e70c4e1ec",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Enter your password",
+      "translation": {
+        "Enter your password": {
+          "value": "Ingresa tu contraseña"
+        }
+      }
+    },
+    {
+      "id": "61adb7bbd7be286734537f31",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You will use PIN Code to verify login and pay.",
+      "translation": {
+        "You will use PIN Code to verify login and pay.": {
+          "value": "Utilizará el código PIN para verificar el inicio de sesión y pagar."
+        }
+      }
+    },
+    {
+      "id": "61adb6055a2a6b6e70c42fa7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Use PIN",
+      "translation": {
+        "Use PIN": {
+          "value": "Usar PIN"
+        }
+      }
+    },
+    {
+      "id": "6194e8d7c966a8b07c021ebd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terminal deactivated successfully",
+      "translation": {
+        "Terminal deactivated successfully": {
+          "value": "Terminal desactivado con éxito"
+        }
+      }
+    },
+    {
+      "id": "6193b2110e3cada1bde24dba",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Are you sure to assign this terminal?",
+      "translation": {
+        "Are you sure to assign this terminal?": {
+          "value": "¿Está seguro de asignar este terminal?"
+        }
+      }
+    },
+    {
+      "id": "61926987536561c972b4f4f5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terminal Name",
+      "translation": {
+        "Terminal Name": {
+          "value": "Nombre de terminal"
+        }
+      }
+    },
+    {
+      "id": "61920f95ddd72a720a7dc162",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Invalid user",
+      "translation": {
+        "Invalid user": {
+          "value": "Usuario invalido"
+        }
+      }
+    },
+    {
+      "id": "6191db6cddd72a720a60bc72",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Send Security Code",
+      "translation": {
+        "Send Security Code": {
+          "value": "Enviar código de seguridad"
+        }
+      }
+    },
+    {
+      "id": "6191db25536561c9726e2130",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Forget Password",
+      "translation": {
+        "Forget Password": {
+          "value": "Contraseña olvidada"
+        }
+      }
+    },
+    {
+      "id": "618e861eddd72a720aff5552",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Inactivate",
+      "translation": {
+        "Inactivate": {
+          "value": "Inactivar"
+        }
+      }
+    },
+    {
+      "id": "618e86158d2bbf06ecc8f477",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Activate",
+      "translation": {
+        "Activate": {
+          "value": "Activar"
+        }
+      }
+    },
+    {
+      "id": "618de3f895f3132654d5da0f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Inactive",
+      "translation": {
+        "Inactive": {
+          "value": "Inactivo"
+        }
+      }
+    },
+    {
+      "id": "618de3f1536561c972d3e9fd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Active",
+      "translation": {
+        "Active": {
+          "value": "Activo"
+        }
+      }
+    },
+    {
+      "id": "618a4b9d44521d05394b4ee4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Refund Successful",
+      "translation": {
+        "Refund Successful": {
+          "value": "Reembolso exitoso"
+        }
+      }
+    },
+    {
+      "id": "618a32de3d8c89ec9372ccbd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The transaction can not be refunded",
+      "translation": {
+        "The transaction can not be refunded": {
+          "value": "La transacción no se puede reembolsar"
+        }
+      }
+    },
+    {
+      "id": "618a29c73d8c89ec936d434a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Refund amount cannot be greater than transaction amount",
+      "translation": {
+        "Refund amount cannot be greater than transaction amount": {
+          "value": "El monto del reembolso no puede ser mayor que el monto de la transacción"
+        }
+      }
+    },
+    {
+      "id": "61854a6f8c7afb0192ba608b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Number of Customers",
+      "translation": {
+        "Number of Customers": {
+          "value": "Numero de clientes"
+        }
+      }
+    },
+    {
+      "id": "61837f973b0c6ca56aeaa4e1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Reset PIN",
+      "translation": {
+        "Reset PIN": {
+          "value": "Restablecer PIN"
+        }
+      }
+    },
+    {
+      "id": "618139c44160af2c6e55bf5d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Save successfully",
+      "translation": {
+        "Save successfully": {
+          "value": "Guardar con éxito"
+        }
+      }
+    },
+    {
+      "id": "618137e581e8f6295a606eb1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Role is required",
+      "translation": {
+        "Role is required": {
+          "value": "Se requiere rol"
+        }
+      }
+    },
+    {
+      "id": "6181369181e8f6295a6039e2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Phone is required",
+      "translation": {
+        "Phone is required": {
+          "value": "Se requiere teléfono"
+        }
+      }
+    },
+    {
+      "id": "618135ad4160af2c6e55151a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Email is required",
+      "translation": {
+        "Email is required": {
+          "value": "correo electronico es requerido"
+        }
+      }
+    },
+    {
+      "id": "6171346ac1b0352801c72968",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the full card number, not the barcode number.",
+      "translation": {
+        "Please enter the full card number, not the barcode number.": {
+          "value": "Ingrese el número de tarjeta completo, no el número de código de barras."
+        }
+      }
+    },
+    {
+      "id": "617131ee083d780c57f68a79",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Enter the full card number on your TransferMex card. It will be encrypted and kept secure.",
+      "translation": {
+        "Enter the full card number on your TransferMex card. It will be encrypted and kept secure.": {
+          "value": "Ingrese el número de tarjeta completo en su tarjeta TransferMex. Se cifrará y se mantendrá seguro."
+        }
+      }
+    },
+    {
+      "id": "61712fc5083d780c57f6494c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Full Card Number",
+      "translation": {
+        "Full Card Number": {
+          "value": "Número completo de tarjeta"
+        }
+      }
+    },
+    {
+      "id": "616fd37da47383165341318a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You are not a consumer",
+      "translation": {
+        "You are not a consumer": {
+          "value": "No eres un consumidor"
+        }
+      }
+    },
+    {
+      "id": "616fcff34a501e0923c949ad",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You are not a merchant",
+      "translation": {
+        "You are not a merchant": {
+          "value": "No eres un comerciante"
+        }
+      }
+    },
+    {
+      "id": "61656127c477332e3041931b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Scan your fingerprint to authenticate",
+      "translation": {
+        "Scan your fingerprint to authenticate": {
+          "value": "Escanee su huella digital para autenticarse"
+        }
+      }
+    },
+    {
+      "id": "6165611da0fb082b894a62d7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Scan your face to authenticate",
+      "translation": {
+        "Scan your face to authenticate": {
+          "value": "Escanea tu rostro para autenticarte"
+        }
+      }
+    },
+    {
+      "id": "615eff63ded8650663389f57",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your ID has been uploaded and could be used at stores to confirm your identity before completing a purchase.",
+      "translation": {
+        "Your ID has been uploaded and could be used at stores to confirm your identity before completing a purchase.": {
+          "value": "Su identificación ha sido cargada y podría usarse en las tiendas para confirmar su identidad antes de completar una compra."
+        }
+      }
+    },
+    {
+      "id": "615eff35ded865066338998b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Document Uploaded Successfully",
+      "translation": {
+        "Document Uploaded Successfully": {
+          "value": "Documento cargado con éxito"
+        }
+      }
+    },
+    {
+      "id": "615ef54e2d511a3ccd54145d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please take a photo of the back of your ID Document",
+      "translation": {
+        "Please take a photo of the back of your ID Document": {
+          "value": "Por favor, tome una foto del reverso de su documento de identidad."
+        }
+      }
+    },
+    {
+      "id": "615ef45609554645a6388e46",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Back of ID",
+      "translation": {
+        "Back of ID": {
+          "value": "Parte posterior de la identificación"
+        }
+      }
+    },
+    {
+      "id": "615d67ea18fab62791140dd6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "your ID Document",
+      "translation": {
+        "your ID Document": {
+          "value": "su documento de identidad"
+        }
+      }
+    },
+    {
+      "id": "615d670ac04d5416c3d41677",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please take a photo of the front of your",
+      "translation": {
+        "Please take a photo of the front of your": {
+          "value": "Por favor, tome una foto del frente de su"
+        }
+      }
+    },
+    {
+      "id": "615d6613c04d5416c3d3c98b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please take a photo of the front of your ID Document",
+      "translation": {
+        "Please take a photo of the front of your ID Document": {
+          "value": "Tome una foto del anverso de su documento de identidad."
+        }
+      }
+    },
+    {
+      "id": "615d653c18fab6279113508c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Front of ID",
+      "translation": {
+        "Front of ID": {
+          "value": "Anverso de la identificación"
+        }
+      }
+    },
+    {
+      "id": "615c293ce0be6e5d7749b203",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You will take a photo of the back and front of your driver’s license.",
+      "translation": {
+        "You will take a photo of the back and front of your driver’s license.": {
+          "value": "Tomará una foto de la parte posterior y frontal de su licencia de conducir."
+        }
+      }
+    },
+    {
+      "id": "615c286586045d5dc6876ca5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Upload",
+      "translation": {
+        "Upload": {
+          "value": "Subir"
+        }
+      }
+    },
+    {
+      "id": "615c284d86045d5dc68768d6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You will take a photo of the back and front of your medical marijuana card.",
+      "translation": {
+        "You will take a photo of the back and front of your medical marijuana card.": {
+          "value": "Le tomará una foto al reverso y al frente de su tarjeta de marihuana medicinal."
+        }
+      }
+    },
+    {
+      "id": "615c27c786045d5dc6875982",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This will help you easily get your documents to verify your identity at merchants",
+      "translation": {
+        "This will help you easily get your documents to verify your identity at merchants": {
+          "value": "Esto le ayudará a obtener fácilmente sus documentos para verificar su identidad en los comercios."
+        }
+      }
+    },
+    {
+      "id": "615c27aee0be6e5d77497c59",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Show View ID Button",
+      "translation": {
+        "Show View ID Button": {
+          "value": "Mostrar botón Ver ID"
+        }
+      }
+    },
+    {
+      "id": "6155a8b36d09172ac8416c0d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "PIN",
+      "translation": {
+        "PIN": {
+          "value": "ALFILER"
+        }
+      }
+    },
+    {
+      "id": "6155a7696acfee311172b766",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You will use Face ID or Touch ID to login to your account.",
+      "translation": {
+        "You will use Face ID or Touch ID to login to your account.": {
+          "value": "Utilizará Face ID o Touch ID para iniciar sesión en su cuenta."
+        }
+      }
+    },
+    {
+      "id": "6155a71d6d09172ac8413a36",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Biometric Login",
+      "translation": {
+        "Biometric Login": {
+          "value": "Inicio de sesión biométrico"
+        }
+      }
+    },
+    {
+      "id": "6155a67162ee0c30a395cb49",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You will receive a code to your email.",
+      "translation": {
+        "You will receive a code to your email.": {
+          "value": "Recibirás un código en tu correo electrónico."
+        }
+      }
+    },
+    {
+      "id": "6155739900ec5a2bb100c501",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your email has not been verified",
+      "translation": {
+        "Your email has not been verified": {
+          "value": "Tu email no se ha verificado"
+        }
+      }
+    },
+    {
+      "id": "61540454ebb8a919f2e0488e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Street Address",
+      "translation": {
+        "Street Address": {
+          "value": "Dirección"
+        }
+      }
+    },
+    {
+      "id": "614dc82aa74a132062808597",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Close My Account",
+      "translation": {
+        "Close My Account": {
+          "value": "Cerrar mi cuenta"
+        }
+      }
+    },
+    {
+      "id": "614dc3b86364002e4c7b9f04",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Upload New Photo",
+      "translation": {
+        "Upload New Photo": {
+          "value": "Subir nueva foto"
+        }
+      }
+    },
+    {
+      "id": "614dc0b8a74a1320627f5f5b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Change Avatar",
+      "translation": {
+        "Change Avatar": {
+          "value": "Cambiar avatar"
+        }
+      }
+    },
+    {
+      "id": "614d877c6364002e4c725938",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Spendr Terms & Conditions",
+      "translation": {
+        "Spendr Terms & Conditions": {
+          "value": "Términos y condiciones de Spendr"
+        }
+      }
+    },
+    {
+      "id": "614d7b8c26f36f20a9bff314",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Manage Documents",
+      "translation": {
+        "Manage Documents": {
+          "value": "Gestionar documentos"
+        }
+      }
+    },
+    {
+      "id": "614d7b78f7fe132886ddeff6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Security",
+      "translation": {
+        "Security": {
+          "value": "Seguridad"
+        }
+      }
+    },
+    {
+      "id": "614c38bba52cf271c9aae27b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Location Selected",
+      "translation": {
+        "Location Selected": {
+          "value": "Ubicación seleccionada"
+        }
+      }
+    },
+    {
+      "id": "614c35f3de6c7872220be4c9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Reviews",
+      "translation": {
+        "Reviews": {
+          "value": "Reseñas"
+        }
+      }
+    },
+    {
+      "id": "614c35a5a52cf271c9aa65a5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Starts",
+      "translation": {
+        "Starts": {
+          "value": "Empieza"
+        }
+      }
+    },
+    {
+      "id": "614b4e68aaeb793cd889d9ad",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Load Account",
+      "translation": {
+        "Load Account": {
+          "value": "Cargar cuenta"
+        }
+      }
+    },
+    {
+      "id": "614b4e379ccd483ca4fb8ce3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your payment failed due to insufficient funds. Please load your account & try again.",
+      "translation": {
+        "Your payment failed due to insufficient funds. Please load your account & try again.": {
+          "value": "Tu pago falló debido a fondos insuficientes. Cargue su cuenta y vuelva a intentarlo."
+        }
+      }
+    },
+    {
+      "id": "614b4e1caaeb793cd889c356",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment Failed",
+      "translation": {
+        "Payment Failed": {
+          "value": "Pago fallido"
+        }
+      }
+    },
+    {
+      "id": "614b4ccc9ccd483ca4fb361c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your payment is complete.",
+      "translation": {
+        "Your payment is complete.": {
+          "value": "Tu pago está completo."
+        }
+      }
+    },
+    {
+      "id": "614b4ba1aaeb793cd889194f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please confirm the payment information below.",
+      "translation": {
+        "Please confirm the payment information below.": {
+          "value": "Confirme la información de pago a continuación."
+        }
+      }
+    },
+    {
+      "id": "614b3fd5fb20352010f9e31c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "SCAN QR CODE",
+      "translation": {
+        "SCAN QR CODE": {
+          "value": "ESCANEAR CÓDIGO QR"
+        }
+      }
+    },
+    {
+      "id": "614b3c011db43f2dd0dced50",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Aim the camera at the QR Code provided to make a payment.",
+      "translation": {
+        "Aim the camera at the QR Code provided to make a payment.": {
+          "value": "Apunte la cámara al código QR proporcionado para realizar un pago."
+        }
+      }
+    },
+    {
+      "id": "614b203641bc1c2c76ddeeb9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Upload Photo",
+      "translation": {
+        "Upload Photo": {
+          "value": "Subir foto"
+        }
+      }
+    },
+    {
+      "id": "614b20258095b82ddce7b7fa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Take Photo",
+      "translation": {
+        "Take Photo": {
+          "value": "Tomar foto"
+        }
+      }
+    },
+    {
+      "id": "61474a24505a01556011bff6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your product has been created successfully and is now saved to your library of products.",
+      "translation": {
+        "Your product has been created successfully and is now saved to your library of products.": {
+          "value": "Su producto se ha creado con éxito y ahora está guardado en su biblioteca de productos."
+        }
+      }
+    },
+    {
+      "id": "61474a16505a01556011bf4c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Product Created Successfully",
+      "translation": {
+        "Product Created Successfully": {
+          "value": "Producto creado con éxito"
+        }
+      }
+    },
+    {
+      "id": "61473012f0a3e9556ba47597",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Save Product",
+      "translation": {
+        "Save Product": {
+          "value": "Guardar producto"
+        }
+      }
+    },
+    {
+      "id": "61472ce64ee6881bce6db86a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Write a review of the product",
+      "translation": {
+        "Write a review of the product": {
+          "value": "Escribe una reseña del producto"
+        }
+      }
+    },
+    {
+      "id": "61472c53c3f16d17b1c78798",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Review",
+      "translation": {
+        "Review": {
+          "value": "Revisar"
+        }
+      }
+    },
+    {
+      "id": "61472b50a33ae13e05074829",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Primary Effect",
+      "translation": {
+        "Primary Effect": {
+          "value": "Efecto primario"
+        }
+      }
+    },
+    {
+      "id": "61472ad9c3f16d17b1c77585",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Plant Type",
+      "translation": {
+        "Plant Type": {
+          "value": "Tipo de planta"
+        }
+      }
+    },
+    {
+      "id": "61472a0da33ae13e05073ca4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Strain Name",
+      "translation": {
+        "Strain Name": {
+          "value": "Nombre de la cepa"
+        }
+      }
+    },
+    {
+      "id": "614729744ee6881bce6d8e70",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Product Type",
+      "translation": {
+        "Product Type": {
+          "value": "tipo de producto"
+        }
+      }
+    },
+    {
+      "id": "61472907c3f16d17b1c76181",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Merchant Name",
+      "translation": {
+        "Merchant Name": {
+          "value": "Nombre del comerciante"
+        }
+      }
+    },
+    {
+      "id": "6147256d6f3dcb3dbac93a12",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Product Name",
+      "translation": {
+        "Product Name": {
+          "value": "nombre del producto"
+        }
+      }
+    },
+    {
+      "id": "614703d5a33ae13e0504a9fc",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Upload or Take Photo",
+      "translation": {
+        "Upload or Take Photo": {
+          "value": "Cargar o tomar una foto"
+        }
+      }
+    },
+    {
+      "id": "6146ff51c3f16d17b1c48ce1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Is this product cannabis related?",
+      "translation": {
+        "Is this product cannabis related?": {
+          "value": "¿Este producto está relacionado con el cannabis?"
+        }
+      }
+    },
+    {
+      "id": "6146fe96a33ae13e05047258",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Create New Product",
+      "translation": {
+        "Create New Product": {
+          "value": "Crear nuevo producto"
+        }
+      }
+    },
+    {
+      "id": "6146e90ca33ae13e05035877",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "View",
+      "translation": {
+        "View": {
+          "value": "Vista"
+        }
+      }
+    },
+    {
+      "id": "6146e6fea33ae13e05033b6c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "NON-CANNABIS",
+      "translation": {
+        "NON-CANNABIS": {
+          "value": "NO CANNABIS"
+        }
+      }
+    },
+    {
+      "id": "6146e6f06f3dcb3dbac56581",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "CANNABIS",
+      "translation": {
+        "CANNABIS": {
+          "value": "CANABIS"
+        }
+      }
+    },
+    {
+      "id": "6146df336f3dcb3dbac504b6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Non-Cannabis",
+      "translation": {
+        "Non-Cannabis": {
+          "value": "Sin cannabis"
+        }
+      }
+    },
+    {
+      "id": "6146dc93a33ae13e0502d23a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Cannabis",
+      "translation": {
+        "Cannabis": {
+          "value": "Canabis"
+        }
+      }
+    },
+    {
+      "id": "6144cc1af632ab37fb1dbdcd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Redemption Date",
+      "translation": {
+        "Redemption Date": {
+          "value": "Fecha de redención"
+        }
+      }
+    },
+    {
+      "id": "6144cba6268b863d69831b94",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Be sure to spend your reward before the expiration date.",
+      "translation": {
+        "Be sure to spend your reward before the expiration date.": {
+          "value": "Asegúrese de gastar su recompensa antes de la fecha de vencimiento."
+        }
+      }
+    },
+    {
+      "id": "6144cb56ad48ad383f93ef9f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Promo Code Redemed",
+      "translation": {
+        "Promo Code Redemed": {
+          "value": "Código promocional canjeado"
+        }
+      }
+    },
+    {
+      "id": "6144beccf632ab37fb1c3d5e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Promo History",
+      "translation": {
+        "Promo History": {
+          "value": "Historial de promociones"
+        }
+      }
+    },
+    {
+      "id": "6144be44268b863d6981af12",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Redeem",
+      "translation": {
+        "Redeem": {
+          "value": "Canjear"
+        }
+      }
+    },
+    {
+      "id": "6144bd33268b863d69818aeb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Enter Promo Code",
+      "translation": {
+        "Enter Promo Code": {
+          "value": "Introduce el código de promoción"
+        }
+      }
+    },
+    {
+      "id": "6144bc1ff632ab37fb1bf104",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Have a promotional code? Enter it below to redeem your Spendr Reward!",
+      "translation": {
+        "Have a promotional code? Enter it below to redeem your Spendr Reward!": {
+          "value": "¿Tiene un código promocional? ¡Ingrese a continuación para canjear su recompensa Spendr!"
+        }
+      }
+    },
+    {
+      "id": "6144bbb6f632ab37fb1be0a8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Promo Codes",
+      "translation": {
+        "Promo Codes": {
+          "value": "Códigos promocionales"
+        }
+      }
+    },
+    {
+      "id": "6144ba917a01933d74b415fa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Spendr Reward",
+      "translation": {
+        "Spendr Reward": {
+          "value": "Recompensa Spendr"
+        }
+      }
+    },
+    {
+      "id": "6144ba2bad48ad383f91dc7e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Total Spend",
+      "translation": {
+        "Total Spend": {
+          "value": "Gasto total"
+        }
+      }
+    },
+    {
+      "id": "6144aeaf7a01933d74b24319",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your Reward will be deposited",
+      "translation": {
+        "Your Reward will be deposited": {
+          "value": "Su recompensa será depositada"
+        }
+      }
+    },
+    {
+      "id": "6144ac267a01933d74b1c12b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Rewards Earned",
+      "translation": {
+        "Rewards Earned": {
+          "value": "Recompensas ganadas"
+        }
+      }
+    },
+    {
+      "id": "6144a36e7a01933d74b030f4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your bank account has failed to be added to your account.",
+      "translation": {
+        "Your bank account has failed to be added to your account.": {
+          "value": "Su cuenta bancaria no se pudo agregar a su cuenta."
+        }
+      }
+    },
+    {
+      "id": "6144a357ad48ad383f8e0e5f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Bank Linking Failed",
+      "translation": {
+        "Bank Linking Failed": {
+          "value": "Enlace bancario fallido"
+        }
+      }
+    },
+    {
+      "id": "61449bb77a01933d74aeb9aa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You bank account has successfully been added to your account and may be used as a source for deposits.",
+      "translation": {
+        "You bank account has successfully been added to your account and may be used as a source for deposits.": {
+          "value": "Su cuenta bancaria se ha agregado correctamente a su cuenta y puede utilizarse como fuente de depósitos."
+        }
+      }
+    },
+    {
+      "id": "61449b70268b863d697bd7e7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Bank Linking Succesful",
+      "translation": {
+        "Bank Linking Succesful": {
+          "value": "Enlace bancario exitoso"
+        }
+      }
+    },
+    {
+      "id": "6144887e7265160da4ec484c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Confirm your bank account below.",
+      "translation": {
+        "Confirm your bank account below.": {
+          "value": "Confirme su cuenta bancaria a continuación."
+        }
+      }
+    },
+    {
+      "id": "614346b8d6d6ac69a94fc15b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Manual bank linking will take 1-3 days for funds to transfer. Try a different account if you want instant access to funds.",
+      "translation": {
+        "Manual bank linking will take 1-3 days for funds to transfer. Try a different account if you want instant access to funds.": {
+          "value": "La vinculación bancaria manual demorará entre 1 y 3 días para que los fondos se transfieran. Pruebe con una cuenta diferente si desea acceso instantáneo a los fondos."
+        }
+      }
+    },
+    {
+      "id": "6143466237c13d69c138239a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Confirm Account Number",
+      "translation": {
+        "Confirm Account Number": {
+          "value": "Confirmar número de cuenta"
+        }
+      }
+    },
+    {
+      "id": "614344c737c13d69c137d3bc",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Routing Number",
+      "translation": {
+        "Routing Number": {
+          "value": "Número de ruta"
+        }
+      }
+    },
+    {
+      "id": "61433bce37c13d69c1361ba4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Manually Enter Information",
+      "translation": {
+        "Manually Enter Information": {
+          "value": "Ingresar información manualmente"
+        }
+      }
+    },
+    {
+      "id": "61432dd337c13d69c1332642",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "enter it manually",
+      "translation": {
+        "enter it manually": {
+          "value": "introdúzcalo manualmente"
+        }
+      }
+    },
+    {
+      "id": "61432da66ece5e47c437ce8a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My bank isn’t here",
+      "translation": {
+        "My bank isn’t here": {
+          "value": "Mi banco no esta aqui"
+        }
+      }
+    },
+    {
+      "id": "614316576ece5e47c4340e14",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Search for your institution",
+      "translation": {
+        "Search for your institution": {
+          "value": "Busque su institución"
+        }
+      }
+    },
+    {
+      "id": "61430c2ab9713362e452838c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Cookie Privacy",
+      "translation": {
+        "Cookie Privacy": {
+          "value": "Privacidad de las cookies"
+        }
+      }
+    },
+    {
+      "id": "61430c054ff45d5454f19a0d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "and",
+      "translation": {
+        "and": {
+          "value": "y"
+        }
+      }
+    },
+    {
+      "id": "61430bd24ff45d5454f19478",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Data Policy",
+      "translation": {
+        "Data Policy": {
+          "value": "Política de datos"
+        }
+      }
+    },
+    {
+      "id": "614308db7c9f4062ef06164c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terms",
+      "translation": {
+        "Terms": {
+          "value": "Condiciones"
+        }
+      }
+    },
+    {
+      "id": "614308ac4ff45d5454f138eb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "By selecting “Continue” you agree to Yodlee’s",
+      "translation": {
+        "By selecting “Continue” you agree to Yodlee’s": {
+          "value": "Al seleccionar \"Continuar\", acepta las"
+        }
+      }
+    },
+    {
+      "id": "614307fc7c9f4062ef06004c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "By selecting “Continue” you agree to Yodlee’s Terms,",
+      "translation": {
+        "By selecting “Continue” you agree to Yodlee’s Terms,": {
+          "value": "Al seleccionar \"Continuar\", acepta los Términos de Yodlee,"
+        }
+      }
+    },
+    {
+      "id": "614307457c9f4062ef05eee4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "By selecting “Continue” you agree to Yodlee’s Terms, Data Policy and Cookie Privacy.",
+      "translation": {
+        "By selecting “Continue” you agree to Yodlee’s Terms, Data Policy and Cookie Privacy.": {
+          "value": "Al seleccionar \"Continuar\", acepta los Términos, la Política de datos y la Privacidad de cookies de Yodlee."
+        }
+      }
+    },
+    {
+      "id": "6143062c4ff45d5454f0fa7f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your credentials will never be made accessible to Yodlee",
+      "translation": {
+        "Your credentials will never be made accessible to Yodlee": {
+          "value": "Sus credenciales nunca serán accesibles a Yodlee"
+        }
+      }
+    },
+    {
+      "id": "614306024ff45d5454f0f638",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Private",
+      "translation": {
+        "Private": {
+          "value": "Privado"
+        }
+      }
+    },
+    {
+      "id": "6142ff8d7c9f4062ef0508aa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Encryption helps protect your personal financial data",
+      "translation": {
+        "Encryption helps protect your personal financial data": {
+          "value": "El cifrado ayuda a proteger sus datos financieros personales"
+        }
+      }
+    },
+    {
+      "id": "6142feb27c9f4062ef04f3f0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Secure",
+      "translation": {
+        "Secure": {
+          "value": "Seguro"
+        }
+      }
+    },
+    {
+      "id": "6142f9791dcc365cafce9fdf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Spendr uses Yodlee to link your bank account.",
+      "translation": {
+        "Spendr uses Yodlee to link your bank account.": {
+          "value": "Spendr usa Yodlee para vincular su cuenta bancaria."
+        }
+      }
+    },
+    {
+      "id": "61420ae3d3fa892848f11b9a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You do not have enough funds to complete this transactions. Please check your bank account and try again later.",
+      "translation": {
+        "You do not have enough funds to complete this transactions. Please check your bank account and try again later.": {
+          "value": "No tiene fondos suficientes para completar estas transacciones. Verifique su cuenta bancaria y vuelva a intentarlo más tarde."
+        }
+      }
+    },
+    {
+      "id": "61420ac10c3c6b28171bab69",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Deposit Failed",
+      "translation": {
+        "Deposit Failed": {
+          "value": "Depósito fallido"
+        }
+      }
+    },
+    {
+      "id": "61420492d3fa892848ee1e03",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please confirm the deposit details.",
+      "translation": {
+        "Please confirm the deposit details.": {
+          "value": "Confirme los detalles del depósito."
+        }
+      }
+    },
+    {
+      "id": "6142031b80fc471672d9cc99",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your funds will arrive in 1-3 business days. For instant deposits please link another bank account.",
+      "translation": {
+        "Your funds will arrive in 1-3 business days. For instant deposits please link another bank account.": {
+          "value": "Sus fondos llegarán en 1-3 días hábiles. Para depósitos instantáneos, vincule otra cuenta bancaria."
+        }
+      }
+    },
+    {
+      "id": "614202b2f06c931686e76e33",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Deposit Succesful",
+      "translation": {
+        "Deposit Succesful": {
+          "value": "Depósito exitoso"
+        }
+      }
+    },
+    {
+      "id": "6142016180fc471672d8e4d9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Time of Deposit",
+      "translation": {
+        "Time of Deposit": {
+          "value": "Tiempo de depósito"
+        }
+      }
+    },
+    {
+      "id": "6141f5e9f06c931686e1a33e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment Activity Provided by",
+      "translation": {
+        "Payment Activity Provided by": {
+          "value": "Actividad de pago proporcionada por"
+        }
+      }
+    },
+    {
+      "id": "6141f4c2f06c931686e12706",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Deposit Total",
+      "translation": {
+        "Deposit Total": {
+          "value": "Depósito total"
+        }
+      }
+    },
+    {
+      "id": "6141ec9480fc471672d05398",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Store Name",
+      "translation": {
+        "Store Name": {
+          "value": "Nombre de la tienda"
+        }
+      }
+    },
+    {
+      "id": "6141cef49542641678bee4ab",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Deposit Confirmation",
+      "translation": {
+        "Deposit Confirmation": {
+          "value": "Confirmación de depósito"
+        }
+      }
+    },
+    {
+      "id": "61419684f06c931686c4df9a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Spendr Balance",
+      "translation": {
+        "Spendr Balance": {
+          "value": "Equilibrio Spendr"
+        }
+      }
+    },
+    {
+      "id": "61409e7d16f65e46fa594364",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My Deposits",
+      "translation": {
+        "My Deposits": {
+          "value": "Mis depósitos"
+        }
+      }
+    },
+    {
+      "id": "61409a01ff81530ff723c9ab",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Despoit",
+      "translation": {
+        "Despoit": {
+          "value": "Despoit"
+        }
+      }
+    },
+    {
+      "id": "6140443e7593401adca08498",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Enter POS Mode",
+      "translation": {
+        "Enter POS Mode": {
+          "value": "Ingrese al modo POS"
+        }
+      }
+    },
+    {
+      "id": "613f5b310b096f16c4094c89",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your PIN has now been created and will be used as a backup option if biometric login encounters and issue.",
+      "translation": {
+        "Your PIN has now been created and will be used as a backup option if biometric login encounters and issue.": {
+          "value": "Su PIN ahora ha sido creado y se utilizará como una opción de respaldo si se encuentra un inicio de sesión biométrico y se produce un problema."
+        }
+      }
+    },
+    {
+      "id": "613f5a240157541683c31c49",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "PIN Created Successfully",
+      "translation": {
+        "PIN Created Successfully": {
+          "value": "PIN creado correctamente"
+        }
+      }
+    },
+    {
+      "id": "613f4daa79996e5db489690b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Confirm 4 digit PIN",
+      "translation": {
+        "Confirm 4 digit PIN": {
+          "value": "Confirmar PIN de 4 dígitos"
+        }
+      }
+    },
+    {
+      "id": "613f3060915f4c5d9fe2c287",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter a 4 digit PIN",
+      "translation": {
+        "Please enter a 4 digit PIN": {
+          "value": "Ingrese un PIN de 4 dígitos"
+        }
+      }
+    },
+    {
+      "id": "613b4ab3d9f79016b2692540",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Don’t remember the PIN? No problem, view it here.",
+      "translation": {
+        "Don’t remember the PIN? No problem, view it here.": {
+          "value": "¿No recuerdas el PIN? No hay problema, míralo aquí."
+        }
+      }
+    },
+    {
+      "id": "613b4a9ec5003816c14e3f84",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "View PIN",
+      "translation": {
+        "View PIN": {
+          "value": "Ver PIN"
+        }
+      }
+    },
+    {
+      "id": "613b4a1b30b47316b04972ba",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Create PIN",
+      "translation": {
+        "Create PIN": {
+          "value": "Crear PIN"
+        }
+      }
+    },
+    {
+      "id": "613b495f30b47316b0495ba4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You can create a PIN to use as a secondary form of login to secure your account.",
+      "translation": {
+        "You can create a PIN to use as a secondary form of login to secure your account.": {
+          "value": "Puede crear un PIN para utilizarlo como una forma secundaria de inicio de sesión para proteger su cuenta."
+        }
+      }
+    },
+    {
+      "id": "613b370430b47316b04707fa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Role",
+      "translation": {
+        "Role": {
+          "value": "Papel"
+        }
+      }
+    },
+    {
+      "id": "613b35c0d9f79016b2666e94",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Personal Details",
+      "translation": {
+        "Personal Details": {
+          "value": "Detalles personales"
+        }
+      }
+    },
+    {
+      "id": "613b1917d9f79016b262da94",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Inactive Clerks",
+      "translation": {
+        "Inactive Clerks": {
+          "value": "Empleados inactivos"
+        }
+      }
+    },
+    {
+      "id": "613b18dd2d06f216bb87cf53",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Active Clerks",
+      "translation": {
+        "Active Clerks": {
+          "value": "Empleados activos"
+        }
+      }
+    },
+    {
+      "id": "613b18862d06f216bb87c330",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Search clerks",
+      "translation": {
+        "Search clerks": {
+          "value": "Empleados de búsqueda"
+        }
+      }
+    },
+    {
+      "id": "613b16ef2d06f216bb878a51",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Clerk Management",
+      "translation": {
+        "Clerk Management": {
+          "value": "Gestión administrativa"
+        }
+      }
+    },
+    {
+      "id": "6139fa4ad29678166c68f0e7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Deactivate Terminal",
+      "translation": {
+        "Deactivate Terminal": {
+          "value": "Desactivar terminal"
+        }
+      }
+    },
+    {
+      "id": "6139f164481b9716984a2bad",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terminal Details",
+      "translation": {
+        "Terminal Details": {
+          "value": "Detalles de la terminal"
+        }
+      }
+    },
+    {
+      "id": "6139b3ddd29678166c5dfc33",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Search terminals",
+      "translation": {
+        "Search terminals": {
+          "value": "Terminales de búsqueda"
+        }
+      }
+    },
+    {
+      "id": "6139b209841f07166ee673f1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please select a terminal from the list below.",
+      "translation": {
+        "Please select a terminal from the list below.": {
+          "value": "Seleccione un terminal de la lista a continuación."
+        }
+      }
+    },
+    {
+      "id": "6139a95a841f07166ee5d2be",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This Device",
+      "translation": {
+        "This Device": {
+          "value": "Este dispositivo"
+        }
+      }
+    },
+    {
+      "id": "61399feed29678166c5c1cb7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terminal ID",
+      "translation": {
+        "Terminal ID": {
+          "value": "ID de terminal"
+        }
+      }
+    },
+    {
+      "id": "6138f386d29678166c46a552",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Add New Bank",
+      "translation": {
+        "Add New Bank": {
+          "value": "Agregar nuevo banco"
+        }
+      }
+    },
+    {
+      "id": "6138ee1a481b97169829038b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My Bank Accounts",
+      "translation": {
+        "My Bank Accounts": {
+          "value": "Mis cuentas bancarias"
+        }
+      }
+    },
+    {
+      "id": "6138e638481b971698281628",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My Transactions",
+      "translation": {
+        "My Transactions": {
+          "value": "Mis transacciones"
+        }
+      }
+    },
+    {
+      "id": "61386e73e6980f167b80bdb0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Driver’s License",
+      "translation": {
+        "Driver’s License": {
+          "value": "Licencia de conducir"
+        }
+      }
+    },
+    {
+      "id": "61386e5352d88616882381f8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Medical Card",
+      "translation": {
+        "Medical Card": {
+          "value": "Tarjeta médica"
+        }
+      }
+    },
+    {
+      "id": "6138261c95fb92168e14b618",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "View ID Documents",
+      "translation": {
+        "View ID Documents": {
+          "value": "Ver documentos de identidad"
+        }
+      }
+    },
+    {
+      "id": "61373f44d9bc25166da4d886",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Current Balance",
+      "translation": {
+        "Current Balance": {
+          "value": "Saldo actual"
+        }
+      }
+    },
+    {
+      "id": "6136d599d8d43716736d74ba",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Settings",
+      "translation": {
+        "Settings": {
+          "value": "Ajustes"
+        }
+      }
+    },
+    {
+      "id": "6136d573d8d43716736d7138",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Store Locator",
+      "translation": {
+        "Store Locator": {
+          "value": "Localizador de tiendas"
+        }
+      }
+    },
+    {
+      "id": "6136d555d9bc25166d9b5022",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My Products",
+      "translation": {
+        "My Products": {
+          "value": "Mis productos"
+        }
+      }
+    },
+    {
+      "id": "6136d53e49c45616863b4439",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My Rewards",
+      "translation": {
+        "My Rewards": {
+          "value": "Mi recompensa"
+        }
+      }
+    },
+    {
+      "id": "6136d493d9bc25166d9b472a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Deposit",
+      "translation": {
+        "Deposit": {
+          "value": "Depositar"
+        }
+      }
+    },
+    {
+      "id": "6136d438d9bc25166d9b417b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Pay",
+      "translation": {
+        "Pay": {
+          "value": "Pagar"
+        }
+      }
+    },
+    {
+      "id": "6135dd5ed8d43716735cf913",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Load My Account",
+      "translation": {
+        "Load My Account": {
+          "value": "Cargar mi cuenta"
+        }
+      }
+    },
+    {
+      "id": "6135dc8649c45616862aafe8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your email address has been confirmed, let’s get started using Spendr.",
+      "translation": {
+        "Your email address has been confirmed, let’s get started using Spendr.": {
+          "value": "Su dirección de correo electrónico ha sido confirmada, comencemos a usar Spendr."
+        }
+      }
+    },
+    {
+      "id": "6135d59f49c456168629d871",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter your email address and we will send a security code to sign up for your account.",
+      "translation": {
+        "Please enter your email address and we will send a security code to sign up for your account.": {
+          "value": "Ingrese su dirección de correo electrónico y le enviaremos un código de seguridad para registrarse en su cuenta."
+        }
+      }
+    },
+    {
+      "id": "6135cf472696de1680ed52cb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter your email address and we will send a security code to reset your password.",
+      "translation": {
+        "Please enter your email address and we will send a security code to reset your password.": {
+          "value": "Ingrese su dirección de correo electrónico y le enviaremos un código de seguridad para restablecer su contraseña."
+        }
+      }
+    },
+    {
+      "id": "6135cf182696de1680ed4f0a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter your email address and we will send Q security code to reset your password.",
+      "translation": {
+        "Please enter your email address and we will send\nQ security code to reset your password.": {
+          "value": "Ingrese su dirección de correo electrónico y le enviaremos\nCódigo de seguridad Q para restablecer su contraseña."
+        }
+      }
+    },
+    {
+      "id": "6135aa9e49c4561686273d62",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Date of Birth",
+      "translation": {
+        "Date of Birth": {
+          "value": "Fecha de cumpleaños"
+        }
+      }
+    },
+    {
+      "id": "6135aa5ad9bc25166d87104b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Home Address",
+      "translation": {
+        "Home Address": {
+          "value": "Direccion de casa"
+        }
+      }
+    },
+    {
+      "id": "6135a3c6d8d437167358bdd3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Already Have a Spendr Account?",
+      "translation": {
+        "Already Have a Spendr Account?": {
+          "value": "¿Ya tienes una cuenta de Spendr?"
+        }
+      }
+    },
+    {
+      "id": "613594b52696de1680e9882d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Sign Up",
+      "translation": {
+        "Sign Up": {
+          "value": "Inscribirse"
+        }
+      }
+    },
+    {
+      "id": "613592af2696de1680e960d3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Don’t Have a Spendr Account?",
+      "translation": {
+        "Don’t Have a Spendr Account?": {
+          "value": "¿No tienes una cuenta de Spendr?"
+        }
+      }
+    },
+    {
+      "id": "6131fdfed9bc25166d4965af",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Inactive Terminals",
+      "translation": {
+        "Inactive Terminals": {
+          "value": "Terminales inactivos"
+        }
+      }
+    },
+    {
+      "id": "6131f09249c4561686e68f60",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Active Terminals",
+      "translation": {
+        "Active Terminals": {
+          "value": "Terminales activos"
+        }
+      }
+    },
+    {
+      "id": "6131e75749c4561686e58703",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Assign New Terminal",
+      "translation": {
+        "Assign New Terminal": {
+          "value": "Asignar nueva terminal"
+        }
+      }
+    },
+    {
+      "id": "6131e7112696de1680aaf65d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terminal Managment",
+      "translation": {
+        "Terminal Managment": {
+          "value": "Gestión de terminales"
+        }
+      }
+    },
+    {
+      "id": "6131c4b349c4561686e26517",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Refund",
+      "translation": {
+        "Refund": {
+          "value": "Reembolso"
+        }
+      }
+    },
+    {
+      "id": "6130a240d9bc25166d1c3235",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "FULL REFUND",
+      "translation": {
+        "FULL REFUND": {
+          "value": "REEMBOLSO COMPLETO"
+        }
+      }
+    },
+    {
+      "id": "613091efd8d4371673ebe8cd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Issue Refund",
+      "translation": {
+        "Issue Refund": {
+          "value": "Reembolso de emisión"
+        }
+      }
+    },
+    {
+      "id": "6130910549c4561686b72631",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Clerk Name",
+      "translation": {
+        "Clerk Name": {
+          "value": "Nombre del empleado"
+        }
+      }
+    },
+    {
+      "id": "612f55692696de16804c080e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Apply Filter",
+      "translation": {
+        "Apply Filter": {
+          "value": "Aplicar filtro"
+        }
+      }
+    },
+    {
+      "id": "612f475d2696de16804a1502",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Date Range",
+      "translation": {
+        "Date Range": {
+          "value": "Rango de fechas"
+        }
+      }
+    },
+    {
+      "id": "612f0105d8d4371673b161f0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Filter By",
+      "translation": {
+        "Filter By": {
+          "value": "Filtrado por"
+        }
+      }
+    },
+    {
+      "id": "612df5656b38d916cb1d96bd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Returned Payment",
+      "translation": {
+        "Returned Payment": {
+          "value": "Pago devuelto"
+        }
+      }
+    },
+    {
+      "id": "612df52977c42716a491217c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment",
+      "translation": {
+        "Payment": {
+          "value": "Pago"
+        }
+      }
+    },
+    {
+      "id": "612ddf1f77c42716a48a0f3f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Search transactions",
+      "translation": {
+        "Search transactions": {
+          "value": "Transacciones de búsqueda"
+        }
+      }
+    },
+    {
+      "id": "612dcee06b38d916cb110de2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transaction Report",
+      "translation": {
+        "Transaction Report": {
+          "value": "Reporte de transacción"
+        }
+      }
+    },
+    {
+      "id": "612cba0198a69916c429a118",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "View All Transactions",
+      "translation": {
+        "View All Transactions": {
+          "value": "Ver todas las transacciones"
+        }
+      }
+    },
+    {
+      "id": "612cb8806b38d916cbd1de19",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Average Payment",
+      "translation": {
+        "Average Payment": {
+          "value": "Pago medio"
+        }
+      }
+    },
+    {
+      "id": "612cb8216b38d916cbd1c47a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Number of Payments",
+      "translation": {
+        "Number of Payments": {
+          "value": "Numero de pagos"
+        }
+      }
+    },
+    {
+      "id": "612cb5a26b38d916cbd109fe",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Total Payments",
+      "translation": {
+        "Total Payments": {
+          "value": "Pagos totales"
+        }
+      }
+    },
+    {
+      "id": "612caff998a69916c426f925",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "View All",
+      "translation": {
+        "View All": {
+          "value": "Ver todo"
+        }
+      }
+    },
+    {
+      "id": "612c81486b38d916cbc2f02d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Print Receipt",
+      "translation": {
+        "Print Receipt": {
+          "value": "Imprima el recibo"
+        }
+      }
+    },
+    {
+      "id": "612c7fb66b38d916cbc2a2e1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transaction ID",
+      "translation": {
+        "Transaction ID": {
+          "value": "ID de transacción"
+        }
+      }
+    },
+    {
+      "id": "612c7f03837088169ef1c2f6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Time & Date",
+      "translation": {
+        "Time & Date": {
+          "value": "Hora Fecha"
+        }
+      }
+    },
+    {
+      "id": "612c7ea26b38d916cbc247dc",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Customer Name",
+      "translation": {
+        "Customer Name": {
+          "value": "Nombre del cliente"
+        }
+      }
+    },
+    {
+      "id": "612c7d436b38d916cbc1e6f3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment Source",
+      "translation": {
+        "Payment Source": {
+          "value": "Fuente de pago"
+        }
+      }
+    },
+    {
+      "id": "612c730c77c42716a42f66c5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment Succesful",
+      "translation": {
+        "Payment Succesful": {
+          "value": "Pago exitoso"
+        }
+      }
+    },
+    {
+      "id": "6128bb1098a69916c4cd5e4b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Customer Phone Number",
+      "translation": {
+        "Customer Phone Number": {
+          "value": "Número de teléfono del cliente"
+        }
+      }
+    },
+    {
+      "id": "6128866f77c42716a4e2e65a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Customer didn’t receive payment?",
+      "translation": {
+        "Customer didn’t receive payment?": {
+          "value": "¿El cliente no recibió el pago?"
+        }
+      }
+    },
+    {
+      "id": "6128674498a69916c4c7548f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Resend Payment",
+      "translation": {
+        "Resend Payment": {
+          "value": "Reenviar pago"
+        }
+      }
+    },
+    {
+      "id": "61286715837088169ea03996",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your push payment has been sent. Waiting for customer to complete the payment.",
+      "translation": {
+        "Your push payment has been sent. Waiting for customer to complete the payment.": {
+          "value": "Su pago push ha sido enviado. Esperando que el cliente complete el pago."
+        }
+      }
+    },
+    {
+      "id": "612866c598a69916c4c74e17",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Send Payment",
+      "translation": {
+        "Send Payment": {
+          "value": "Enviar pago"
+        }
+      }
+    },
+    {
+      "id": "612866b2837088169ea034ef",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please have the customer provide their phone number associated with their Spendr account.",
+      "translation": {
+        "Please have the customer provide their phone number associated with their Spendr account.": {
+          "value": "Pídale al cliente que proporcione su número de teléfono asociado con su cuenta de Spendr."
+        }
+      }
+    },
+    {
+      "id": "612866a277c42716a4dfea94",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Manual Push Payment",
+      "translation": {
+        "Manual Push Payment": {
+          "value": "Pago push manual"
+        }
+      }
+    },
+    {
+      "id": "6127530477c42716a4c01305",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Enter 4 Digit Clerk Code",
+      "translation": {
+        "Enter 4 Digit Clerk Code": {
+          "value": "Ingrese el código de empleado de 4 dígitos"
+        }
+      }
+    },
+    {
+      "id": "612701b1837088169e73771b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Collect Payment",
+      "translation": {
+        "Collect Payment": {
+          "value": "Cobrar el pago"
+        }
+      }
+    },
+    {
+      "id": "61263277226f3116861b5ff9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Cancel Transaction",
+      "translation": {
+        "Cancel Transaction": {
+          "value": "Cancelar transacción"
+        }
+      }
+    },
+    {
+      "id": "612631bd226f3116861b4095",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Push Payment",
+      "translation": {
+        "Push Payment": {
+          "value": "Pago Push"
+        }
+      }
+    },
+    {
+      "id": "61262e9eb0c2de166c3f3a53",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment Total",
+      "translation": {
+        "Payment Total": {
+          "value": "Pago total"
+        }
+      }
+    },
+    {
+      "id": "612619b4226f311686171c50",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Push Payment Feature",
+      "translation": {
+        "Push Payment Feature": {
+          "value": "Función de pago push"
+        }
+      }
+    },
+    {
+      "id": "612617c223dca01680297885",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please present this QR code to the customer to print. If the customer is having issues use the",
+      "translation": {
+        "Please present this QR code to the customer to print. If the customer is having issues use the": {
+          "value": "Presente este código QR al cliente para que lo imprima. Si el cliente tiene problemas, utilice el"
+        }
+      }
+    },
+    {
+      "id": "6124a770b58bbd169f2ca019",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Log Out",
+      "translation": {
+        "Log Out": {
+          "value": "Cerrar sesión"
+        }
+      }
+    },
+    {
+      "id": "612472f7e5e46d16999912a2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terminal Management",
+      "translation": {
+        "Terminal Management": {
+          "value": "Gestión de terminales"
+        }
+      }
+    },
+    {
+      "id": "6124723ae5e46d16999908df",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment Report",
+      "translation": {
+        "Payment Report": {
+          "value": "Informe de pago"
+        }
+      }
+    },
+    {
+      "id": "6124722deef14716862e7803",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Accept Payment",
+      "translation": {
+        "Accept Payment": {
+          "value": "Aceptar pago"
+        }
+      }
+    },
+    {
+      "id": "61234c21b58bbd169f09cabf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your password has been reset. You can now continue using your Spendr account.",
+      "translation": {
+        "Your password has been reset. You can now continue using your Spendr account.": {
+          "value": "Tu contraseña ha sido restablecida. Ahora puede seguir usando su cuenta Spendr."
+        }
+      }
+    },
+    {
+      "id": "61231e19b58bbd169f043491",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You may need to check your Junk or Spam folder.",
+      "translation": {
+        "You may need to check your Junk or Spam folder.": {
+          "value": "Es posible que deba verificar su carpeta de correo no deseado o correo no deseado."
+        }
+      }
+    },
+    {
+      "id": "61231e0f475622168d51827b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "We sent a security code to",
+      "translation": {
+        "We sent a security code to": {
+          "value": "Enviamos un código de seguridad a"
+        }
+      }
+    },
+    {
+      "id": "61231dbee5e46d169973cecc",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Security Code",
+      "translation": {
+        "Security Code": {
+          "value": "Código de seguridad"
+        }
+      }
+    },
+    {
+      "id": "61231c37475622168d513754",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter a new password to use for your Spendr account.",
+      "translation": {
+        "Please enter a new password to use for your Spendr account.": {
+          "value": "Ingrese una nueva contraseña para usar en su cuenta Spendr."
+        }
+      }
+    },
+    {
+      "id": "61231b50e5e46d1699737cdd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Reset Password",
+      "translation": {
+        "Reset Password": {
+          "value": "Restablecer la contraseña"
+        }
+      }
+    },
+    {
+      "id": "61231a45475622168d50e6a3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter your email address and we will send you a link to reset your password.",
+      "translation": {
+        "Please enter your email address and we will send you a link to reset your password.": {
+          "value": "Ingrese su dirección de correo electrónico y le enviaremos un enlace para restablecer su contraseña."
+        }
+      }
+    },
+    {
+      "id": "6123180eb58bbd169f033670",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Login",
+      "translation": {
+        "Login": {
+          "value": "Acceso"
+        }
+      }
+    },
+    {
+      "id": "61231722475622168d506d87",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Forgot My Password",
+      "translation": {
+        "Forgot My Password": {
+          "value": "Olvidé mi contraseña"
+        }
+      }
+    },
+    {
+      "id": "6123130ab58bbd169f02783e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Keep me signed in",
+      "translation": {
+        "Keep me signed in": {
+          "value": "Mantenerme registrado"
+        }
+      }
+    },
+    {
+      "id": "6123123bb58bbd169f025a9e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "password",
+      "translation": {
+        "Password": {
+          "value": "Contraseña"
+        }
+      }
+    },
+    {
+      "id": "60f15ecbee94221145500cdd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Queued",
+      "translation": {
+        "Queued": {
+          "value": "Puesto en cola"
+        }
+      }
+    },
+    {
+      "id": "60efea32ee94221145250e85",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The request failed. Please check your network connection!",
+      "translation": {
+        "The request failed. Please check your network connection!": {
+          "value": "La solicitud falló. Comprueba tu conexión de red."
+        }
+      }
+    },
+    {
+      "id": "60efe686326382111f9e3800",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your transfer is currently processing and will complete in the next 1-3 days. We will notify you when the transfer has been marked complete via email.",
+      "translation": {
+        "Your transfer is currently processing and will complete in the next 1-3 days. We will notify you when the transfer has been marked complete via email.": {
+          "value": "Su transferencia se está procesando actualmente y se completará en los próximos 1-3 días. Le notificaremos cuando la transferencia se haya marcado como completa por correo electrónico."
+        }
+      }
+    },
+    {
+      "id": "60efdab1ee94221145223963",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You card is issued but not activated. Please try again a moment later.",
+      "translation": {
+        "You card is issued but not activated. Please try again a moment later.": {
+          "value": "Su tarjeta está emitida pero no activada. Vuelve a intentarlo un momento más tarde."
+        }
+      }
+    },
+    {
+      "id": "6087e21174594d10f549bfa8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Format: 4 digits",
+      "translation": {
+        "Format: 4 digits": {
+          "value": "Formato: 4 dígitos"
+        }
+      }
+    },
+    {
+      "id": "6087de5b74594d10f548dc4f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Change PIN",
+      "translation": {
+        "Change PIN": {
+          "value": "Cambiar PIN"
+        }
+      }
+    },
+    {
+      "id": "6076fd8d6d6cd110c0018a41",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Start with country dialing code. Format: +XX XXXXXXXXXX",
+      "translation": {
+        "Start with country dialing code. Format: +XX XXXXXXXXXX": {
+          "value": "Comience con el código de marcación del país. Formato: +XX XXXXXXXXXX"
+        }
+      }
+    },
+    {
+      "id": "605df94e179ee61119f0930e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the Postal Code.",
+      "translation": {
+        "Please enter the Postal Code.": {
+          "value": "Ingrese el código postal."
+        }
+      }
+    },
+    {
+      "id": "605df56510078811133ffa95",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Postal Code",
+      "translation": {
+        "Postal Code": {
+          "value": "Código postal"
+        }
+      }
+    },
+    {
+      "id": "605de3d24a1615111c47563d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please provide us the postal code you are trying to send cash to.",
+      "translation": {
+        "Please provide us the postal code you are trying to send cash to.": {
+          "value": "Indíquenos el código postal al que está intentando enviar dinero en efectivo."
+        }
+      }
+    },
+    {
+      "id": "605de1574a1615111c469955",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Location Details",
+      "translation": {
+        "Location Details": {
+          "value": "Detalles de ubicación"
+        }
+      }
+    },
+    {
+      "id": "605ddea64a1615111c45c875",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Request New Location",
+      "translation": {
+        "Request New Location": {
+          "value": "Solicitar nueva ubicación"
+        }
+      }
+    },
+    {
+      "id": "605dde357cb44211227c03d8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "We currently don’t have any Cash Pickup locations in this area. Please expand your search radius. We are adding new locations every day!",
+      "translation": {
+        "We currently don’t have any Cash Pickup locations in this area. Please expand your search radius. We are adding new locations every day!": {
+          "value": "Actualmente no tenemos una locación para recolección en el área de búsqueda. Expande el área de localización para encontrar tu punto de recolección más cercano. Estamos agregando nuevas locaciones todos los días!!!"
+        }
+      }
+    },
+    {
+      "id": "60176c2e97af98109c27b9a9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Bank Account Type",
+      "translation": {
+        "Bank Account Type": {
+          "value": "Tipo de cuenta bancaria"
+        }
+      }
+    },
+    {
+      "id": "601504f81979f110978bca3c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Failed Transfer Credit",
+      "translation": {
+        "Failed Transfer Credit": {
+          "value": "Crédito de transferencia fallido"
+        }
+      }
+    },
+    {
+      "id": "6015049a86d056109567c9bd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Debit",
+      "translation": {
+        "Transfer Debit": {
+          "value": "Débito de transferencia"
+        }
+      }
+    },
+    {
+      "id": "6013dc7b031b9e107064d008",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transportation & Lodging",
+      "translation": {
+        "Transportation & Lodging": {
+          "value": "Transporte y alojamiento"
+        }
+      }
+    },
+    {
+      "id": "6013dc76031b9e107064cf9c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Other Stuff",
+      "translation": {
+        "Other Stuff": {
+          "value": "Otras cosas"
+        }
+      }
+    },
+    {
+      "id": "6013dc70c0d44e1076ddda51",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Home & Garden",
+      "translation": {
+        "Home & Garden": {
+          "value": "Hogar & Jardín"
+        }
+      }
+    },
+    {
+      "id": "6013dc6ac0d44e1076ddd4d0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Health and Beauty",
+      "translation": {
+        "Health and Beauty": {
+          "value": "Salud y Belleza"
+        }
+      }
+    },
+    {
+      "id": "6013dc636fec7d1095de5c58",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Food & Beverage",
+      "translation": {
+        "Food & Beverage": {
+          "value": "Bebida alimenticia"
+        }
+      }
+    },
+    {
+      "id": "6013dc5c031b9e107064c9ca",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Entertainment & Shopping",
+      "translation": {
+        "Entertainment & Shopping": {
+          "value": "Entretenimiento y compras"
+        }
+      }
+    },
+    {
+      "id": "6013dc566fec7d1095de5af2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Computer & Digital",
+      "translation": {
+        "Computer & Digital": {
+          "value": "Computadora y digital"
+        }
+      }
+    },
+    {
+      "id": "6013dc4f4c16c91093429dba",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Business & Financial",
+      "translation": {
+        "Business & Financial": {
+          "value": "Negocios y Finanzas"
+        }
+      }
+    },
+    {
+      "id": "6013dc284c16c910934291aa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Merchant Category",
+      "translation": {
+        "Merchant Category": {
+          "value": "Categoría de comerciante"
+        }
+      }
+    },
+    {
+      "id": "600fe838d9afd810b17d0b43",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please add the recipient first!",
+      "translation": {
+        "Please add the recipient first!": {
+          "value": "¡Agregue el destinatario primero!"
+        }
+      }
+    },
+    {
+      "id": "600e9ceb31847d10dc7220a2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This recipient doesn't have a city or address entered yet.",
+      "translation": {
+        "This recipient doesn't have a city or address entered yet.": {
+          "value": "Este destinatario aún no tiene una ciudad o dirección ingresada."
+        }
+      }
+    },
+    {
+      "id": "600e94ae1cb1f710e228c7eb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "There're no results",
+      "translation": {
+        "There're no results": {
+          "value": "No hay resultados"
+        }
+      }
+    },
+    {
+      "id": "600e94a0d34aa610baf69429",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Address or reference",
+      "translation": {
+        "Address or reference": {
+          "value": "Dirección o referencia"
+        }
+      }
+    },
+    {
+      "id": "600d15a2d34aa610baaed14a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Select Location",
+      "translation": {
+        "Select Location": {
+          "value": "Seleccionar ubicación"
+        }
+      }
+    },
+    {
+      "id": "600d1596d34aa610baaecd87",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Share",
+      "translation": {
+        "Share": {
+          "value": "Compartir"
+        }
+      }
+    },
+    {
+      "id": "600ce9ac1cb1f710e2da1479",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Search in this region",
+      "translation": {
+        "Search in this region": {
+          "value": "Buscar en esta región"
+        }
+      }
+    },
+    {
+      "id": "600c372855825710a425ab99",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Select a recipient",
+      "translation": {
+        "Select a recipient": {
+          "value": "Seleccionar un destinatario"
+        }
+      }
+    },
+    {
+      "id": "600bf51bb55165108068b80b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Type in address",
+      "translation": {
+        "Type in address": {
+          "value": "Escriba la dirección"
+        }
+      }
+    },
+    {
+      "id": "600bf32555825710a415db20",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Filter by brand",
+      "translation": {
+        "Filter by brand": {
+          "value": "Filtrar por marca"
+        }
+      }
+    },
+    {
+      "id": "600bdee755825710a411b8c1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please grant the permission to your location.",
+      "translation": {
+        "Please grant the permission to your location.": {
+          "value": "Por favor conceda el permiso a su ubicación."
+        }
+      }
+    },
+    {
+      "id": "600bded755825710a411b7d6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "No available cash pickup locations in this region.",
+      "translation": {
+        "No available cash pickup locations in this region.": {
+          "value": "No hay ubicaciones de retiro en ventanilla disponibles en esta región."
+        }
+      }
+    },
+    {
+      "id": "600bca0c55825710a40ca786",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please search and share the cash pickup locations nearby the recipient.",
+      "translation": {
+        "Please search and share the cash pickup locations nearby the recipient.": {
+          "value": "Busque y comparta las ubicaciones de retiro en efectivo cercanas al destinatario."
+        }
+      }
+    },
+    {
+      "id": "600bc9fd6149c5107f52cf2c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Use the provided xpin code in the location to receive the funds.",
+      "translation": {
+        "Use the provided xpin code in the location to receive the funds.": {
+          "value": "Utilice el código xpin proporcionado en la ubicación para recibir los fondos."
+        }
+      }
+    },
+    {
+      "id": "600aef6acf1635107170952e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Message",
+      "translation": {
+        "Message": {
+          "value": "Mensaje"
+        }
+      }
+    },
+    {
+      "id": "6009a84ef0892d10a18a6854",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "View Map",
+      "translation": {
+        "View Map": {
+          "value": "Ver el mapa"
+        }
+      }
+    },
+    {
+      "id": "6009a268617e7e108228dae7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Until",
+      "translation": {
+        "Until": {
+          "value": "Hasta"
+        }
+      }
+    },
+    {
+      "id": "6009a25f5b2a5610837f0ba9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Since",
+      "translation": {
+        "Since": {
+          "value": "Ya que"
+        }
+      }
+    },
+    {
+      "id": "6009a1a7f0892d10a18837eb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "All",
+      "translation": {
+        "All": {
+          "value": "Todas"
+        }
+      }
+    },
+    {
+      "id": "60099cbd617e7e10822756dc",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Executed",
+      "translation": {
+        "Executed": {
+          "value": "Ejecutado"
+        }
+      }
+    },
+    {
+      "id": "60099cad2ba0f910a7b88d59",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Declined",
+      "translation": {
+        "Declined": {
+          "value": "Rechazado"
+        }
+      }
+    },
+    {
+      "id": "60093da9617e7e1082070b27",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Type",
+      "translation": {
+        "Transfer Type": {
+          "value": "Tipo de transferencia"
+        }
+      }
+    },
+    {
+      "id": "6005522bf3bf9810c04808b7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "No more data",
+      "translation": {
+        "No more data": {
+          "value": "No mas datos"
+        }
+      }
+    },
+    {
+      "id": "5ff72e9b4c41a11086cd55fd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "To activate your card enter the number on the back of your TransferMex card",
+      "translation": {
+        "To activate your card enter the number on the back of your TransferMex card": {
+          "value": "Para la activación, introduce el número que viene en la parte de atrás de tu tarjeta de TransferMex"
+        }
+      }
+    },
+    {
+      "id": "5fed6f5ffd88e2116338a04f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Send Money",
+      "translation": {
+        "Send Money": {
+          "value": "Enviar dinero"
+        }
+      }
+    },
+    {
+      "id": "5fe9931b2c3733119d764a12",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field is required!",
+      "translation": {
+        "This field is required!": {
+          "value": "¡Este campo es requerido!"
+        }
+      }
+    },
+    {
+      "id": "5fe9930d03f91d11576ec610",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Operation is cancelled",
+      "translation": {
+        "Operation is cancelled": {
+          "value": "Se cancela la operación"
+        }
+      }
+    },
+    {
+      "id": "5fe9930003f91d11576ec309",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Task is cancelled.",
+      "translation": {
+        "Task is cancelled.": {
+          "value": "La tarea está cancelada."
+        }
+      }
+    },
+    {
+      "id": "5fe992f52c3733119d7638d6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Unknown error",
+      "translation": {
+        "Unknown error": {
+          "value": "Error desconocido"
+        }
+      }
+    },
+    {
+      "id": "5fe992e55ef69c11a3ac4401",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the value:",
+      "translation": {
+        "Please enter the value:": {
+          "value": "Introduzca el valor:"
+        }
+      }
+    },
+    {
+      "id": "5fe992b803f91d11576ea729",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Are you sure you want to continue?",
+      "translation": {
+        "Are you sure you want to continue?": {
+          "value": "Estás seguro de que quieres continuar?"
+        }
+      }
+    },
+    {
+      "id": "5fe992b05ef69c11a3ac2fa1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Unknown error from API",
+      "translation": {
+        "Unknown error from API": {
+          "value": "Error desconocido de API"
+        }
+      }
+    },
+    {
+      "id": "5fe992a9876d59115d329b33",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The operation failed!",
+      "translation": {
+        "The operation failed!": {
+          "value": "¡La operación falló!"
+        }
+      }
+    },
+    {
+      "id": "5fe992a203f91d11576e9b38",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please fix the issues before submitting the form!",
+      "translation": {
+        "Please fix the issues before submitting the form!": {
+          "value": "¡Solucione los problemas antes de enviar el formulario!"
+        }
+      }
+    },
+    {
+      "id": "5fe992725ef69c11a3ac18ea",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This feature is working in progress.",
+      "translation": {
+        "This feature is working in progress.": {
+          "value": "Esta característica está trabajando en progreso."
+        }
+      }
+    },
+    {
+      "id": "5fe9926903f91d11576e8827",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Saved successfully!",
+      "translation": {
+        "Saved successfully!": {
+          "value": "¡Guardado exitosamente!"
+        }
+      }
+    },
+    {
+      "id": "5fe9925f2c3733119d760f50",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The operation completed successfully!",
+      "translation": {
+        "The operation completed successfully!": {
+          "value": "¡La operación se completó con éxito!"
+        }
+      }
+    },
+    {
+      "id": "5fe588065ef69c11a3e45907",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Mexican Peso (MXN)",
+      "translation": {
+        "Mexican Peso (MXN)": {
+          "value": "Peso mexicano (MXN)"
+        }
+      }
+    },
+    {
+      "id": "5fe587fb5ef69c11a3e458b4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "US Dollars (USD)",
+      "translation": {
+        "US Dollars (USD)": {
+          "value": "Dólares estadounidenses (USD)"
+        }
+      }
+    },
+    {
+      "id": "5fe1c046ae128011b56dfe75",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This transfer is not cancelable!",
+      "translation": {
+        "This transfer is not cancelable!": {
+          "value": "¡Esta transferencia no es cancelable!"
+        }
+      }
+    },
+    {
+      "id": "5fe1a8dbae128011b563b255",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Use the provided xpin and/or prn codes in the location to receive the funds.",
+      "translation": {
+        "Use the provided xpin and/or prn codes in the location to receive the funds.": {
+          "value": "Utilice los códigos xpin y / o prn proporcionados en la ubicación para recibir los fondos."
+        }
+      }
+    },
+    {
+      "id": "5fe1a8bfb4f52d11af58474c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The funds will be transferred to the provided account details of the beneficiary .",
+      "translation": {
+        "The funds will be transferred to the provided account details of the beneficiary .": {
+          "value": "Los fondos se transferirán a los datos de cuenta proporcionados por el beneficiario."
+        }
+      }
+    },
+    {
+      "id": "5fe04189ae128011b5e1d4f6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please share the above instructions to the recipient.",
+      "translation": {
+        "Please share the above instructions to the recipient.": {
+          "value": "Comparta las instrucciones anteriores con el destinatario."
+        }
+      }
+    },
+    {
+      "id": "5fe03106ae128011b5d9bd74",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Code",
+      "translation": {
+        "Code": {
+          "value": "Código"
+        }
+      }
+    },
+    {
+      "id": "5fe030ffb4f52d11afceb88b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Instructions",
+      "translation": {
+        "Instructions": {
+          "value": "Instrucciones"
+        }
+      }
+    },
+    {
+      "id": "5fe030e896d810118526629a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "CLABE",
+      "translation": {
+        "CLABE": {
+          "value": "CLABE"
+        }
+      }
+    },
+    {
+      "id": "5fe030e0ae128011b5d9aa3a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Account Number",
+      "translation": {
+        "Account Number": {
+          "value": "Número de cuenta"
+        }
+      }
+    },
+    {
+      "id": "5fe030bfb535ef117fbc516b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Bank",
+      "translation": {
+        "Bank": {
+          "value": "Banco"
+        }
+      }
+    },
+    {
+      "id": "5fe030aeb4f52d11afce9172",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Status",
+      "translation": {
+        "Transfer Status": {
+          "value": "Estado de transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fdf458696d8101185b44b4f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Direct Deposit",
+      "translation": {
+        "Direct Deposit": {
+          "value": "Deposito directo"
+        }
+      }
+    },
+    {
+      "id": "5fdf457a96d8101185b4432e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Total",
+      "translation": {
+        "Total": {
+          "value": "Total"
+        }
+      }
+    },
+    {
+      "id": "5fdf4574b535ef117f48806b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Done",
+      "translation": {
+        "Done": {
+          "value": "Hecho"
+        }
+      }
+    },
+    {
+      "id": "5fdf456b96d8101185b43ae6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Get Support",
+      "translation": {
+        "Get Support": {
+          "value": "Obtener apoyo"
+        }
+      }
+    },
+    {
+      "id": "5fdf1dd496d8101185a125d6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Cash Pickup Locations",
+      "translation": {
+        "Cash Pickup Locations": {
+          "value": "Ubicaciones de retiro en ventanilla"
+        }
+      }
+    },
+    {
+      "id": "5fdc54666a59f0117ad91d8b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Receive Time",
+      "translation": {
+        "Receive Time": {
+          "value": "Recibir tiempo"
+        }
+      }
+    },
+    {
+      "id": "5fdc545e6a59f0117ad91c1e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Create Time",
+      "translation": {
+        "Create Time": {
+          "value": "Crear tiempo"
+        }
+      }
+    },
+    {
+      "id": "5fdc54545c473a1180eccda7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Send Time",
+      "translation": {
+        "Send Time": {
+          "value": "Enviar hora"
+        }
+      }
+    },
+    {
+      "id": "5fdc4e255c473a1180ea78b9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer to {name}",
+      "translation": {
+        "Transfer to {name}": {
+          "value": "Transferir a {name}"
+        }
+      }
+    },
+    {
+      "id": "5fdc3eec6a59f0117acdafba",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Are you sure that you want to transfer {amount} to {user}?",
+      "translation": {
+        "Are you sure that you want to transfer {amount} to {user}?": {
+          "value": "¿Está seguro de que desea transferir {monto} a {usuario}?"
+        }
+      }
+    },
+    {
+      "id": "5fd7933b38832a1167e545cf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Expired",
+      "translation": {
+        "Expired": {
+          "value": "Caducado"
+        }
+      }
+    },
+    {
+      "id": "5fd7932bfd13521144121010",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Canceled",
+      "translation": {
+        "Canceled": {
+          "value": "Cancelado"
+        }
+      }
+    },
+    {
+      "id": "5fd7931ffd13521144120dd3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Created",
+      "translation": {
+        "Created": {
+          "value": "Creado"
+        }
+      }
+    },
+    {
+      "id": "5fd7931938832a1167e53bd0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Confirmation",
+      "translation": {
+        "Confirmation": {
+          "value": "Confirmación"
+        }
+      }
+    },
+    {
+      "id": "5fd7931338832a1167e53b0c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Pending",
+      "translation": {
+        "Pending": {
+          "value": "Pendiente"
+        }
+      }
+    },
+    {
+      "id": "5fd7537979a4ce1188ed4182",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Are you sure that you want to cancel this transfer?",
+      "translation": {
+        "Are you sure that you want to cancel this transfer?": {
+          "value": "¿Estás seguro de que deseas cancelar esta transferencia?"
+        }
+      }
+    },
+    {
+      "id": "5fd7535b42af931171490986",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Close",
+      "translation": {
+        "Close": {
+          "value": "Cerca"
+        }
+      }
+    },
+    {
+      "id": "5fd628f13361f01186ba0fc4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Confirming",
+      "translation": {
+        "Confirming": {
+          "value": "Confirmando"
+        }
+      }
+    },
+    {
+      "id": "5fd628e9181f6c11784a3bc4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Sending",
+      "translation": {
+        "Sending": {
+          "value": "Enviando"
+        }
+      }
+    },
+    {
+      "id": "5fd39526c324cf117f2a9624",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Required. Please configure in the recipient detail page",
+      "translation": {
+        "Required. Please configure in the recipient detail page": {
+          "value": "Necesario. Configure en la página de detalles del destinatario"
+        }
+      }
+    },
+    {
+      "id": "5fd33a76053c3611ab6ab8b7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter a valid amount!",
+      "translation": {
+        "Please enter a valid amount!": {
+          "value": "¡Ingrese una cantidad válida!"
+        }
+      }
+    },
+    {
+      "id": "5fd33a48053c3611ab6ab04e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Total Transfer Cost",
+      "translation": {
+        "Total Transfer Cost": {
+          "value": "Costo total de transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fd0f7db08c88611833beaa6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "To",
+      "translation": {
+        "To": {
+          "value": "A"
+        }
+      }
+    },
+    {
+      "id": "5fd0f7d56c25021156e0b885",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "United States Card",
+      "translation": {
+        "United States Card": {
+          "value": "Tarjeta de Estados Unidos"
+        }
+      }
+    },
+    {
+      "id": "5fd0ee3b0cc8fa115043c7e9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Postcode",
+      "translation": {
+        "Postcode": {
+          "value": "Código postal"
+        }
+      }
+    },
+    {
+      "id": "5fd0ee3208c886118338b8c6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "State",
+      "translation": {
+        "State": {
+          "value": "Estado"
+        }
+      }
+    },
+    {
+      "id": "5fd0ee2c6c25021156dd5139",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "City",
+      "translation": {
+        "City": {
+          "value": "Ciudad"
+        }
+      }
+    },
+    {
+      "id": "5fd0ee257c1c4c117c267ed7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Address",
+      "translation": {
+        "Address": {
+          "value": "Habla a"
+        }
+      }
+    },
+    {
+      "id": "5fd0ee1f08c886118338b2ba",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Merchant",
+      "translation": {
+        "Merchant": {
+          "value": "Comerciante"
+        }
+      }
+    },
+    {
+      "id": "5fc900292da057113aae1da1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the keyword:",
+      "translation": {
+        "Please enter the keyword:": {
+          "value": "Por favor ingrese la palabra clave:"
+        }
+      }
+    },
+    {
+      "id": "5fc8f43d2da057113aaad63a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "To speak to a TransferMex agent call",
+      "translation": {
+        "To speak to a TransferMex agent call": {
+          "value": "Para hablar con un agente de TransferMex, llama"
+        }
+      }
+    },
+    {
+      "id": "5fc8f434c91d031188f32198",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "We’re Sorry!",
+      "translation": {
+        "We’re Sorry!": {
+          "value": "¡Lo sentimos!"
+        }
+      }
+    },
+    {
+      "id": "5fc8f3ebc91d031188f31127",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Are you sure that you want to sign out?",
+      "translation": {
+        "Are you sure that you want to sign out?": {
+          "value": "¿Estás seguro de que quieres cerrar sesión?"
+        }
+      }
+    },
+    {
+      "id": "5fc4ca6d2d50f5116604048b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Unlimited",
+      "translation": {
+        "Unlimited": {
+          "value": "Ilimitado"
+        }
+      }
+    },
+    {
+      "id": "5fc4c672ca7e3011a5da99ed",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Clear",
+      "translation": {
+        "Clear": {
+          "value": "Claro"
+        }
+      }
+    },
+    {
+      "id": "5fc4b70b658694116c64c8cb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Select Date Range",
+      "translation": {
+        "Select Date Range": {
+          "value": "Seleccionar rango de fechas"
+        }
+      }
+    },
+    {
+      "id": "5fc3c5b33a560f116ab357b7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "All Locations",
+      "translation": {
+        "All Locations": {
+          "value": "Todas las localizaciones"
+        }
+      }
+    },
+    {
+      "id": "5fc3c51e093427116cbe02d8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Cash Pickup Location",
+      "translation": {
+        "Cash Pickup Location": {
+          "value": "Lugar de retiro en efectivo"
+        }
+      }
+    },
+    {
+      "id": "5fc394f841c069118eaba38b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Select Cash Pickup Location",
+      "translation": {
+        "Select Cash Pickup Location": {
+          "value": "Seleccione el lugar de recogida en ventanilla"
+        }
+      }
+    },
+    {
+      "id": "5fc367353a560f116aadc0d5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Completed",
+      "translation": {
+        "Completed": {
+          "value": "Terminado"
+        }
+      }
+    },
+    {
+      "id": "5fc36509093427116cb88ab7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your payment to {name} has failed.",
+      "translation": {
+        "Your payment to {name} has failed.": {
+          "value": "Tu pago a {name} falló."
+        }
+      }
+    },
+    {
+      "id": "5fc364ed3a560f116aadafdf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Failed",
+      "translation": {
+        "Transfer Failed": {
+          "value": "Transferencia fallida"
+        }
+      }
+    },
+    {
+      "id": "5fc27b9848bd881199be2963",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Status",
+      "translation": {
+        "Status": {
+          "value": "Estado"
+        }
+      }
+    },
+    {
+      "id": "5fc27b7b5788d7118587f8d0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer ID",
+      "translation": {
+        "Transfer ID": {
+          "value": "Identificación de Transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fc27b6b7050f81193ba71e8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Estimated Arrival",
+      "translation": {
+        "Estimated Arrival": {
+          "value": "llegada estimada"
+        }
+      }
+    },
+    {
+      "id": "5fc2796c4309f1118b0fae88",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please allow 2-5 business days for the transaction to complete.",
+      "translation": {
+        "Please allow 2-5 business days for the transaction to complete.": {
+          "value": "Espere de 2 a 5 días hábiles para que se complete la transacción."
+        }
+      }
+    },
+    {
+      "id": "5fc2793b48bd881199be1663",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You have successfully sent",
+      "translation": {
+        "You have successfully sent": {
+          "value": "Ha enviado con éxito"
+        }
+      }
+    },
+    {
+      "id": "5fc279307050f81193ba5f1d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Successful",
+      "translation": {
+        "Transfer Successful": {
+          "value": "Transferencia exitosa"
+        }
+      }
+    },
+    {
+      "id": "5fc24ed85788d71185865e6b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer to",
+      "translation": {
+        "Transfer to": {
+          "value": "Transferir a"
+        }
+      }
+    },
+    {
+      "id": "5fc24c745788d711858647b2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Confirm Transfer",
+      "translation": {
+        "Confirm Transfer": {
+          "value": "Confirmar transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fc2403a48bd881199bb29e4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Payment Method",
+      "translation": {
+        "Payment Method": {
+          "value": "Método de pago"
+        }
+      }
+    },
+    {
+      "id": "5fc23e5248bd881199bb13da",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Recipient Receives",
+      "translation": {
+        "Recipient Receives": {
+          "value": "El destinatario recibe"
+        }
+      }
+    },
+    {
+      "id": "5fc23e284309f1118b0d4a81",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Exchange Rate",
+      "translation": {
+        "Exchange Rate": {
+          "value": "Tipo de cambio"
+        }
+      }
+    },
+    {
+      "id": "5fc23e004309f1118b0d48a3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Transfer Cost",
+      "translation": {
+        "Transfer Transfer Cost": {
+          "value": "Transferencia Costo de transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fc23d874309f1118b0d443d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Fee",
+      "translation": {
+        "Transfer Fee": {
+          "value": "Tarifa de transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fc23a485788d7118585509a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Amount",
+      "translation": {
+        "Transfer Amount": {
+          "value": "Monto de la transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fc239384309f1118b0cecad",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Method",
+      "translation": {
+        "Transfer Method": {
+          "value": "Método de transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fc2392f48bd881199baaf5f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Preferred Transfer Method",
+      "translation": {
+        "Preferred Transfer Method": {
+          "value": "Método de transferencia preferido"
+        }
+      }
+    },
+    {
+      "id": "5fc0cc875788d711854f0e8b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your card is not activated yet!",
+      "translation": {
+        "Your card is not activated yet!": {
+          "value": "¡Tu tarjeta aún no está activada!"
+        }
+      }
+    },
+    {
+      "id": "5fc0cabd7050f811937d483c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "No active card found!",
+      "translation": {
+        "No active card found!": {
+          "value": "¡No se encontró ninguna tarjeta activa!"
+        }
+      }
+    },
+    {
+      "id": "5fc0c58d5788d711854d3c93",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please wait for at least 1 minute before requesting a new code.",
+      "translation": {
+        "Please wait for at least 1 minute before requesting a new code.": {
+          "value": "Espere al menos 1 minuto antes de solicitar un nuevo código."
+        }
+      }
+    },
+    {
+      "id": "5fc0c26c48bd88119982d76a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Invalid code!",
+      "translation": {
+        "Invalid code!": {
+          "value": "¡Codigo invalido!"
+        }
+      }
+    },
+    {
+      "id": "5fc0c12548bd88119982af49",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Enter the code sent to",
+      "translation": {
+        "Enter the code sent to": {
+          "value": "Ingrese el código enviado a"
+        }
+      }
+    },
+    {
+      "id": "5fc0c10c48bd88119982ab6e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Send the verification code to",
+      "translation": {
+        "Send the verification code to": {
+          "value": "Envíe el código de verificación a"
+        }
+      }
+    },
+    {
+      "id": "5fc0be165788d711854c4b19",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Mark All as Read",
+      "translation": {
+        "Mark All as Read": {
+          "value": "Marcar todo como leido"
+        }
+      }
+    },
+    {
+      "id": "5fc0bd877050f811937afd57",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Earlier",
+      "translation": {
+        "Earlier": {
+          "value": "Más temprano"
+        }
+      }
+    },
+    {
+      "id": "5fc0bd805788d711854c2f36",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "New",
+      "translation": {
+        "New": {
+          "value": "Nuevo"
+        }
+      }
+    },
+    {
+      "id": "5fc0aca348bd881199807249",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Remove Photo",
+      "translation": {
+        "Remove Photo": {
+          "value": "Quitar foto"
+        }
+      }
+    },
+    {
+      "id": "5fc0ac9948bd8811998071fd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Choose New Photo",
+      "translation": {
+        "Choose New Photo": {
+          "value": "Elegir nueva foto"
+        }
+      }
+    },
+    {
+      "id": "5fc0ac907050f811937920c2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Take New Photo",
+      "translation": {
+        "Take New Photo": {
+          "value": "Tomar nueva foto"
+        }
+      }
+    },
+    {
+      "id": "5fc0a6fe48bd8811997fc515",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Choose a image source",
+      "translation": {
+        "Choose a image source": {
+          "value": "Elija una fuente de imagen"
+        }
+      }
+    },
+    {
+      "id": "5fc0a6f74309f1118bd1024d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Gallery",
+      "translation": {
+        "Gallery": {
+          "value": "Galería"
+        }
+      }
+    },
+    {
+      "id": "5fc0a6f07050f81193787b17",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Camera",
+      "translation": {
+        "Camera": {
+          "value": "Cámara"
+        }
+      }
+    },
+    {
+      "id": "5fc0a1847050f8119377ccff",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Email Address",
+      "translation": {
+        "Email Address": {
+          "value": "Dirección de correo electrónico"
+        }
+      }
+    },
+    {
+      "id": "5fc0a17d48bd8811997effff",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Change Image",
+      "translation": {
+        "Change Image": {
+          "value": "Cambiar imagen"
+        }
+      }
+    },
+    {
+      "id": "5fc0a1757050f8119377c9d5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Full Name",
+      "translation": {
+        "Full Name": {
+          "value": "Nombre completo"
+        }
+      }
+    },
+    {
+      "id": "5fbfd97a4309f1118bc15284",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Try Again",
+      "translation": {
+        "Try Again": {
+          "value": "Inténtalo de nuevo"
+        }
+      }
+    },
+    {
+      "id": "5fbfd96b5788d711853a0bca",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Call TransferMex",
+      "translation": {
+        "Call TransferMex": {
+          "value": "Llamar TransferMex"
+        }
+      }
+    },
+    {
+      "id": "5fbfd7af4309f1118bc12c28",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "To get a replacement card please give TransferMex a call at",
+      "translation": {
+        "To get a replacement card please give TransferMex a call at": {
+          "value": "Para obtener una tarjeta de reemplazo, llame a TransferMex al"
+        }
+      }
+    },
+    {
+      "id": "5fbfd7944309f1118bc12a89",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Order Replacement Card",
+      "translation": {
+        "Order Replacement Card": {
+          "value": "Solicitar tarjeta de reemplazo"
+        }
+      }
+    },
+    {
+      "id": "5fbfd2384309f1118bc0b25b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Phone",
+      "translation": {
+        "Phone": {
+          "value": "Teléfono"
+        }
+      }
+    },
+    {
+      "id": "5fbfc8e148bd8811996e5fdb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Spending",
+      "translation": {
+        "Spending": {
+          "value": "Gasto"
+        }
+      }
+    },
+    {
+      "id": "5fbfc88348bd8811996e53ec",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Income",
+      "translation": {
+        "Income": {
+          "value": "Ingresos"
+        }
+      }
+    },
+    {
+      "id": "5fbf8b894309f1118bb92316",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Error",
+      "translation": {
+        "Error": {
+          "value": "Error"
+        }
+      }
+    },
+    {
+      "id": "5fbf8a074309f1118bb8f8fb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "You card is issued but not activated. Please contact support.",
+      "translation": {
+        "You card is issued but not activated. Please contact support.": {
+          "value": "Su tarjeta está emitida pero no activada. Póngase en contacto con el servicio de asistencia."
+        }
+      }
+    },
+    {
+      "id": "5fbf883e4309f1118bb8d0be",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your card is already issued and active!",
+      "translation": {
+        "Your card is already issued and active!": {
+          "value": "¡Su tarjeta ya está emitida y activa!"
+        }
+      }
+    },
+    {
+      "id": "5fbf875d5788d7118531a79e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The number on the back of your TransferMex Card",
+      "translation": {
+        "The number on the back of your TransferMex Card": {
+          "value": "El número en el reverso de su tarjeta TransferMex"
+        }
+      }
+    },
+    {
+      "id": "5fbf68ac48bd881199648300",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Card is inactive",
+      "translation": {
+        "Card is inactive": {
+          "value": "La tarjeta está inactiva"
+        }
+      }
+    },
+    {
+      "id": "5fbf689a48bd8811996480e5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Tap to refresh",
+      "translation": {
+        "Tap to refresh": {
+          "value": "Toca para actualizar"
+        }
+      }
+    },
+    {
+      "id": "5fbcc8ca1bd9fe1189a9941c",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Invalid barcode number!",
+      "translation": {
+        "Invalid barcode number!": {
+          "value": "¡Número de código de barras no válido!"
+        }
+      }
+    },
+    {
+      "id": "5fbcb13b0bf326115e0b8b37",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Your card was already activated before!",
+      "translation": {
+        "Your card was already activated before!": {
+          "value": "¡Tu tarjeta ya estaba activada antes!"
+        }
+      }
+    },
+    {
+      "id": "5fba9d30780eca116eed34ca",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "No matched result",
+      "translation": {
+        "No matched result": {
+          "value": "Sin resultado coincidente"
+        }
+      }
+    },
+    {
+      "id": "5fba97b6780eca116eed12c1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Change Phone Number",
+      "translation": {
+        "Change Phone Number": {
+          "value": "Cambiar número de teléfono"
+        }
+      }
+    },
+    {
+      "id": "5fba97af845d8a1171d230ef",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Resend Code",
+      "translation": {
+        "Resend Code": {
+          "value": "Reenviar codigo"
+        }
+      }
+    },
+    {
+      "id": "5fba97a839f08411704c2068",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Didn't receive a code?",
+      "translation": {
+        "Didn't receive a code?": {
+          "value": "¿No recibiste un código?"
+        }
+      }
+    },
+    {
+      "id": "5fba97a0e70e7a1176071bdb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Paste",
+      "translation": {
+        "Paste": {
+          "value": "Pegar"
+        }
+      }
+    },
+    {
+      "id": "5fba979a39f08411704c1fc2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Do you want to paste this code",
+      "translation": {
+        "Do you want to paste this code": {
+          "value": "¿Quieres pegar este código?"
+        }
+      }
+    },
+    {
+      "id": "5fba9791845d8a1171d22f86",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Paste Code",
+      "translation": {
+        "Paste Code": {
+          "value": "Pegar código"
+        }
+      }
+    },
+    {
+      "id": "5fba978a845d8a1171d22f54",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This code expires in 10 minutes.",
+      "translation": {
+        "This code expires in 10 minutes.": {
+          "value": "Este código caduca en 10 minutos."
+        }
+      }
+    },
+    {
+      "id": "5fba978239f08411704c1e9d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Please enter the 6 digit code sent to:",
+      "translation": {
+        "Please enter the 6 digit code sent to:": {
+          "value": "Ingrese el código de 6 dígitos enviado a:"
+        }
+      }
+    },
+    {
+      "id": "5fba977a39f08411704c1e54",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Two Factor Authentication",
+      "translation": {
+        "Two Factor Authentication": {
+          "value": "Autenticación de dos factores"
+        }
+      }
+    },
+    {
+      "id": "5fba924be70e7a117606f5fe",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Are you sure you want to leave? The changes will be discarded!",
+      "translation": {
+        "Are you sure you want to leave? The changes will be discarded!": {
+          "value": "Estás seguro que quieres irte? ¡Los cambios serán descartados!"
+        }
+      }
+    },
+    {
+      "id": "5fba9238845d8a1171d209c6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "OK",
+      "translation": {
+        "OK": {
+          "value": "Okay"
+        }
+      }
+    },
+    {
+      "id": "5fba920b39f08411704bf931",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Ok",
+      "translation": {
+        "Ok": {
+          "value": "Okay"
+        }
+      }
+    },
+    {
+      "id": "5fba9204780eca116eece99a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Confirm",
+      "translation": {
+        "Confirm": {
+          "value": "Confirmar"
+        }
+      }
+    },
+    {
+      "id": "5fba89f0e70e7a117606a8ec",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Operation completed successfully!",
+      "translation": {
+        "Operation completed successfully!": {
+          "value": "¡La operación se realizó con éxito!"
+        }
+      }
+    },
+    {
+      "id": "5fba89eb780eca116eec9d3e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Success",
+      "translation": {
+        "Success": {
+          "value": "Éxito"
+        }
+      }
+    },
+    {
+      "id": "5fba89a7845d8a1171d1bca4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Info",
+      "translation": {
+        "Info": {
+          "value": "Info"
+        }
+      }
+    },
+    {
+      "id": "5fba89a0780eca116eec9ac9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Submitted successfully!",
+      "translation": {
+        "Submitted successfully!": {
+          "value": "¡Enviado satisfactoriamente!"
+        }
+      }
+    },
+    {
+      "id": "5fba8902e70e7a117606a01b",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Delete",
+      "translation": {
+        "Delete": {
+          "value": "Eliminar"
+        }
+      }
+    },
+    {
+      "id": "5fba88f9780eca116eec9468",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Are you sure you want to delete this item?",
+      "translation": {
+        "Are you sure you want to delete this item?": {
+          "value": "¿Está seguro de que desea eliminar este elemento?"
+        }
+      }
+    },
+    {
+      "id": "5fba88ec39f08411704ba361",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Delete Item",
+      "translation": {
+        "Delete Item": {
+          "value": "Eliminar elemento"
+        }
+      }
+    },
+    {
+      "id": "5fba82c6e70e7a1176066874",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Save Changes",
+      "translation": {
+        "Save Changes": {
+          "value": "Guardar cambios"
+        }
+      }
+    },
+    {
+      "id": "5fba82ade70e7a1176066776",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Edit Recipient",
+      "translation": {
+        "Edit Recipient": {
+          "value": "Editar destinatario"
+        }
+      }
+    },
+    {
+      "id": "5fba56a739f0841170480ce7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Bank Transfer",
+      "translation": {
+        "Bank Transfer": {
+          "value": "Transferencia bancaria"
+        }
+      }
+    },
+    {
+      "id": "5fba07f4845d8a1171ca38cf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "No Country Code",
+      "translation": {
+        "No Country Code": {
+          "value": "Sin código de país"
+        }
+      }
+    },
+    {
+      "id": "5fba07d1e70e7a1176ff317a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "United States",
+      "translation": {
+        "United States": {
+          "value": "Estados Unidos"
+        }
+      }
+    },
+    {
+      "id": "5fba07c939f08411704437ed",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Mexico",
+      "translation": {
+        "Mexico": {
+          "value": "México"
+        }
+      }
+    },
+    {
+      "id": "5fba07c3780eca116ee4f448",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "China",
+      "translation": {
+        "China": {
+          "value": "China"
+        }
+      }
+    },
+    {
+      "id": "5fb9f7c2845d8a1171c9abf6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Pull to refresh...",
+      "translation": {
+        "Pull to refresh...": {
+          "value": "Tire para actualizar ..."
+        }
+      }
+    },
+    {
+      "id": "5fb9f79c780eca116ee45ddb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "No data yet.",
+      "translation": {
+        "No data yet.": {
+          "value": "Aún no hay datos."
+        }
+      }
+    },
+    {
+      "id": "5fb93aed780eca116edf928a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Select",
+      "translation": {
+        "Select": {
+          "value": "Seleccione"
+        }
+      }
+    },
+    {
+      "id": "5fb93955845d8a1171c3e750",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Loading...",
+      "translation": {
+        "Loading...": {
+          "value": "Cargando..."
+        }
+      }
+    },
+    {
+      "id": "5fb9394f39f08411703e8178",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Loading",
+      "translation": {
+        "Loading": {
+          "value": "Cargando"
+        }
+      }
+    },
+    {
+      "id": "5fb938e7845d8a1171c3da4a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Cash Pickup",
+      "translation": {
+        "Cash Pickup": {
+          "value": "Pago en ventanilla"
+        }
+      }
+    },
+    {
+      "id": "5fb938dd780eca116edf7352",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Mexico Bank Transfer",
+      "translation": {
+        "Mexico Bank Transfer": {
+          "value": "Transferencia bancaria de México"
+        }
+      }
+    },
+    {
+      "id": "5fb9380a845d8a1171c3cac0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field requires a valid date string.",
+      "translation": {
+        "This field requires a valid date string.": {
+          "value": "Este campo requiere una cadena de fecha válida."
+        }
+      }
+    },
+    {
+      "id": "5fb93803780eca116edf61e9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field requires a valid IP.",
+      "translation": {
+        "This field requires a valid IP.": {
+          "value": "Este campo requiere una IP válida."
+        }
+      }
+    },
+    {
+      "id": "5fb937fa780eca116edf6110",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field requires a valid credit card number.",
+      "translation": {
+        "This field requires a valid credit card number.": {
+          "value": "Este campo requiere un número de tarjeta de crédito válido."
+        }
+      }
+    },
+    {
+      "id": "5fb937f2e70e7a1176f98b06",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Value must be numeric.",
+      "translation": {
+        "Value must be numeric.": {
+          "value": "El valor debe ser numérico."
+        }
+      }
+    },
+    {
+      "id": "5fb937eb845d8a1171c3c6ac",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Value does not match pattern.",
+      "translation": {
+        "Value does not match pattern.": {
+          "value": "El valor no coincide con el patrón."
+        }
+      }
+    },
+    {
+      "id": "5fb937e2845d8a1171c3c66d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field requires a valid URL address.",
+      "translation": {
+        "This field requires a valid URL address.": {
+          "value": "Este campo requiere una dirección URL válida."
+        }
+      }
+    },
+    {
+      "id": "5fb937d6845d8a1171c3c381",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Value must have a length less than or equal to {n}",
+      "translation": {
+        "Value must have a length less than or equal to {n}": {
+          "value": "El valor debe tener una longitud menor o igual a {n}"
+        }
+      }
+    },
+    {
+      "id": "5fb937b1845d8a1171c3c20a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Value must be less than or equal to {n}",
+      "translation": {
+        "Value must be less than or equal to {n}": {
+          "value": "El valor debe ser menor o igual que {n}"
+        }
+      }
+    },
+    {
+      "id": "5fb937a6780eca116edf58af",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Value must be greater than or equal to {n}",
+      "translation": {
+        "Value must be greater than or equal to {n}": {
+          "value": "El valor debe ser mayor o igual que {n}"
+        }
+      }
+    },
+    {
+      "id": "5fb93799845d8a1171c3be48",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field must be set to true",
+      "translation": {
+        "This field must be set to true": {
+          "value": "Este campo debe establecerse en verdadero"
+        }
+      }
+    },
+    {
+      "id": "5fb9378ae70e7a1176f980e7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Avatar Color",
+      "translation": {
+        "Avatar Color": {
+          "value": "Color de Avatar"
+        }
+      }
+    },
+    {
+      "id": "5fb93782780eca116edf54a0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field requires a valid email address.",
+      "translation": {
+        "This field requires a valid email address.": {
+          "value": "Este campo requiere una dirección de correo electrónico válida."
+        }
+      }
+    },
+    {
+      "id": "5fb93779845d8a1171c3bcd4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Mobile Phone (Optional)",
+      "translation": {
+        "Mobile Phone (Optional)": {
+          "value": "Teléfono móvil (opcional)"
+        }
+      }
+    },
+    {
+      "id": "5fb93770780eca116edf539f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Email",
+      "translation": {
+        "Email": {
+          "value": "Email"
+        }
+      }
+    },
+    {
+      "id": "5fb9376a39f08411703e554e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Preferred Payment Method",
+      "translation": {
+        "Preferred Payment Method": {
+          "value": "Método de pago preferido"
+        }
+      }
+    },
+    {
+      "id": "5fb9376039f08411703e54b2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Currency",
+      "translation": {
+        "Currency": {
+          "value": "Moneda"
+        }
+      }
+    },
+    {
+      "id": "5fb93758e70e7a1176f97caf",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "This field cannot be empty.",
+      "translation": {
+        "This field cannot be empty.": {
+          "value": "Este campo no puede estar vacío."
+        }
+      }
+    },
+    {
+      "id": "5fb9374d845d8a1171c3b7fa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Country",
+      "translation": {
+        "Country": {
+          "value": "País"
+        }
+      }
+    },
+    {
+      "id": "5fb9372d39f08411703e4ff5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Value must have a length greater than or equal to {n}",
+      "translation": {
+        "Value must have a length greater than or equal to {n}": {
+          "value": "El valor debe tener una longitud mayor o igual a {n}"
+        }
+      }
+    },
+    {
+      "id": "5fb93724845d8a1171c3b6af",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Last Name",
+      "translation": {
+        "Last Name": {
+          "value": "Apellido"
+        }
+      }
+    },
+    {
+      "id": "5fb9371c845d8a1171c3b17a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "First Name",
+      "translation": {
+        "First Name": {
+          "value": "Primer nombre"
+        }
+      }
+    },
+    {
+      "id": "5fb93714780eca116edf4cf2",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Create New Recipient",
+      "translation": {
+        "Create New Recipient": {
+          "value": "Crear nuevo destinatario"
+        }
+      }
+    },
+    {
+      "id": "5fb9370de70e7a1176f971a4",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Send",
+      "translation": {
+        "Send": {
+          "value": "Enviar"
+        }
+      }
+    },
+    {
+      "id": "5fb9370539f08411703e4bca",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Change Language",
+      "translation": {
+        "Change Language": {
+          "value": "Cambiar idioma"
+        }
+      }
+    },
+    {
+      "id": "5fb644d1eb4c5a119ea0a8e6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Notifications",
+      "translation": {
+        "Notifications": {
+          "value": "Notificaciones"
+        }
+      }
+    },
+    {
+      "id": "5fb6447beb4c5a119ea0a071",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer",
+      "translation": {
+        "Transfer": {
+          "value": "Transferir"
+        }
+      }
+    },
+    {
+      "id": "5fb64474dc14d01151a4bf55",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Home",
+      "translation": {
+        "Home": {
+          "value": "Casa"
+        }
+      }
+    },
+    {
+      "id": "5fb6446e9b5dd91198931d31",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Privacy Policy & Terms of Use",
+      "translation": {
+        "Privacy Policy & Terms of Use": {
+          "value": "Política de privacidad y condiciones de uso"
+        }
+      }
+    },
+    {
+      "id": "5fb64464dc14d01151a4bddb",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Sign Out",
+      "translation": {
+        "Sign Out": {
+          "value": "Desconectar"
+        }
+      }
+    },
+    {
+      "id": "5fb6445ddc14d01151a4bd44",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Support",
+      "translation": {
+        "Support": {
+          "value": "Apoyo"
+        }
+      }
+    },
+    {
+      "id": "5fb64454c1e46211506991db",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Replace My Card",
+      "translation": {
+        "Replace My Card": {
+          "value": "Reemplazar mi tarjeta"
+        }
+      }
+    },
+    {
+      "id": "5fb6444c9b5dd91198931a93",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "View My Pin",
+      "translation": {
+        "View My Pin": {
+          "value": "Ver mi Pin"
+        }
+      }
+    },
+    {
+      "id": "5fb64446dc14d01151a4bab7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Account Settings",
+      "translation": {
+        "Account Settings": {
+          "value": "Configuraciones de la cuenta"
+        }
+      }
+    },
+    {
+      "id": "5fb64439c1e4621150698eb8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "My Account",
+      "translation": {
+        "My Account": {
+          "value": "Mi cuenta"
+        }
+      }
+    },
+    {
+      "id": "5fb64433eb4c5a119ea09a9a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Search",
+      "translation": {
+        "Search": {
+          "value": "Buscar"
+        }
+      }
+    },
+    {
+      "id": "5fb6442dc1e4621150698d73",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transfer Recipients",
+      "translation": {
+        "Transfer Recipients": {
+          "value": "Destinatarios de la transferencia"
+        }
+      }
+    },
+    {
+      "id": "5fb64416c1e4621150698b00",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Transactions",
+      "translation": {
+        "Transactions": {
+          "value": "Actas"
+        }
+      }
+    },
+    {
+      "id": "5fb6440eeb4c5a119ea096c3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "No transactions...yet",
+      "translation": {
+        "No transactions...yet": {
+          "value": "No hay transacciones ... todavía"
+        }
+      }
+    },
+    {
+      "id": "5fb64405eb4c5a119ea09529",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "See All",
+      "translation": {
+        "See All": {
+          "value": "Ver todo"
+        }
+      }
+    },
+    {
+      "id": "5fb643feeb4c5a119ea0944d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Recent Transactions",
+      "translation": {
+        "Recent Transactions": {
+          "value": "Transacciones Recientes"
+        }
+      }
+    },
+    {
+      "id": "5fb643f5dc14d01151a4b3a3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Cancel",
+      "translation": {
+        "Cancel": {
+          "value": "Cancelar"
+        }
+      }
+    },
+    {
+      "id": "5fb643edc1e462115069869d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Barcode Number",
+      "translation": {
+        "Barcode Number": {
+          "value": "Codigo de barras"
+        }
+      }
+    },
+    {
+      "id": "5fb643e6eb4c5a119ea09146",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Activate Card",
+      "translation": {
+        "Activate Card": {
+          "value": "Activar tarjeta"
+        }
+      }
+    },
+    {
+      "id": "5fb643dd9b5dd9119893100d",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Card Balance",
+      "translation": {
+        "Card Balance": {
+          "value": "Balance de tarjeta"
+        }
+      }
+    },
+    {
+      "id": "5fb643d6c1e46211506983dc",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Balance",
+      "translation": {
+        "Balance": {
+          "value": "Equilibrar"
+        }
+      }
+    },
+    {
+      "id": "5fb643bf9b5dd91198930d40",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Hello",
+      "translation": {
+        "Hello": {
+          "value": "Hola"
+        }
+      }
+    },
+    {
+      "id": "5fb643b9dc14d01151a4ae1f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Good Afternoon",
+      "translation": {
+        "Good Afternoon": {
+          "value": "Buenas tardes"
+        }
+      }
+    },
+    {
+      "id": "5fb643b1c1e4621150698074",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Good Morning",
+      "translation": {
+        "Good Morning": {
+          "value": "Buenos días"
+        }
+      }
+    },
+    {
+      "id": "5fb643a6c1e4621150697f02",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Good Evening",
+      "translation": {
+        "Good Evening": {
+          "value": "Buena noches"
+        }
+      }
+    },
+    {
+      "id": "5fa792f2f9e21411223f52c8",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Invalid phone number",
+      "translation": {
+        "Invalid phone number": {
+          "value": "Numero de telefono invalido"
+        }
+      }
+    },
+    {
+      "id": "5fa7927f727d1f20a183aecd",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Country Name or Dial Code",
+      "translation": {
+        "Country Name or Dial Code": {
+          "value": "Nombre del país o código de marcación"
+        }
+      }
+    },
+    {
+      "id": "5fa79265727d1f20a183aa93",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Phone Number",
+      "translation": {
+        "Phone Number": {
+          "value": "Número de teléfono"
+        }
+      }
+    },
+    {
+      "id": "5fa770175ed694115ecebb7a",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field must be at least {n} characters long",
+      "translation": {
+        "The field must be at least {n} characters long": {
+          "value": "El campo debe tener al menos {n} caracteres"
+        }
+      }
+    },
+    {
+      "id": "5fa76f7d5ed694115eceaac1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field must be at most {n} characters long",
+      "translation": {
+        "The field must be at most {n} characters long": {
+          "value": "El campo debe tener como máximo {n} caracteres"
+        }
+      }
+    },
+    {
+      "id": "5fa76e7c351f23111b6a70d0",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field is not a valid URL address",
+      "translation": {
+        "The field is not a valid URL address": {
+          "value": "El campo no es una dirección URL válida"
+        }
+      }
+    },
+    {
+      "id": "5fa76e6a5ed694115ece87d7",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field is required",
+      "translation": {
+        "The field is required": {
+          "value": "El campo es obligatorio"
+        }
+      }
+    },
+    {
+      "id": "5fa76e625ed694115ece879e",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field is not a valid phone number",
+      "translation": {
+        "The field is not a valid phone number": {
+          "value": "El campo no es un número de teléfono válido"
+        }
+      }
+    },
+    {
+      "id": "5fa76e555ed694115ece85c6",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field is not a valid IPv6 address",
+      "translation": {
+        "The field is not a valid IPv6 address": {
+          "value": "El campo no es una dirección IPv6 válida"
+        }
+      }
+    },
+    {
+      "id": "5fa76e4d351f23111b6a6ab5",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field is not a valid IP address",
+      "translation": {
+        "The field is not a valid IP address": {
+          "value": "El campo no es una dirección IP válida"
+        }
+      }
+    },
+    {
+      "id": "5fa76e3ef9e21411223aefd1",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "The field is not a valid email address",
+      "translation": {
+        "The field is not a valid email address": {
+          "value": "El campo no es una dirección de correo electrónico válida"
+        }
+      }
+    },
+    {
+      "id": "5fa6bc3551efaa110c8d6834",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Continue",
+      "translation": {
+        "Continue": {
+          "value": "Seguir"
+        }
+      }
+    },
+    {
+      "id": "5fa6bc1f13f0cc10b4c4c3e3",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Terms & Conditions",
+      "translation": {
+        "Terms & Conditions": {
+          "value": "Términos y condiciones"
+        }
+      }
+    },
+    {
+      "id": "5fa6bc0251efaa110c8d63aa",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "By clicking continue short",
+      "translation": {
+        "By clicking continue, you validate that you’ve read and accepted our": {
+          "value": "Al hacer clic en continuar, valida que ha leído y aceptado nuestra"
+        }
+      }
+    },
+    {
+      "id": "5fa6bbec13f0cc10b4c4c1af",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "By clicking continue",
+      "translation": {
+        "By clicking continue, you validate that you’ve read\nand accepted our Terms & Conditions.": {
+          "value": "Al hacer clic en continuar, confirma que ha leído y aceptado nuestros Términos y condiciones."
+        }
+      }
+    },
+    {
+      "id": "5fa6bbbf012b1010ada6feab",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Mobile Phone Number",
+      "translation": {
+        "Mobile Phone Number": {
+          "value": "Número de teléfono móvil"
+        }
+      }
+    },
+    {
+      "id": "5fa6991fa674d51108e6305f",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Mobile Phone",
+      "translation": {
+        "Mobile Phone": {
+          "value": "Teléfono móvil"
+        }
+      }
+    }
+  ]
+}

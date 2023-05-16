@@ -44,14 +44,14 @@ class _AppleWalletDynamic extends State<AppleWalletDynamic> {
 
   @override
   Widget build(BuildContext context) {
-    initPlatformState();
-    // if (Platform.isIOS) {
-    //   initPlatformState();
-    // } else {
-    //   setState(() {
-    //     _passLoaded = true;
-    //   });
-    // }
+    // initPlatformState();
+    if (Platform.isIOS) {
+      initPlatformState();
+    } else {
+      setState(() {
+        _passLoaded = true;
+      });
+    }
 
     return (Column(
       crossAxisAlignment: CrossAxisAlignment.start,

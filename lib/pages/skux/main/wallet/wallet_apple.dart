@@ -35,14 +35,14 @@ class _AppleWallet extends State<AppleWallet> {
 
   @override
   Widget build(BuildContext context) {
-    // initPlatformState();
-    if (Platform.isIOS) {
-      initPlatformState();
-    } else {
-      setState(() {
-        _passLoaded = true;
-      });
-    }
+    initPlatformState();
+    // if (Platform.isIOS) {
+    //   initPlatformState();
+    // } else {
+    //   setState(() {
+    //     _passLoaded = true;
+    //   });
+    // }
 
     return (Column(
       crossAxisAlignment: CrossAxisAlignment.start,

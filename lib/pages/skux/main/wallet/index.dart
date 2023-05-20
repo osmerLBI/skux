@@ -243,7 +243,6 @@ class _WalletPageState extends EventHubState<WalletPage> {
                             const SizedBox(height: 16),
                             const IssuerStatement(),
                             const SizedBox(height: 8),
-
                             if (ObjectUtil.isNotEmpty(_cards)) _cardsArea(),
                             if (ObjectUtil.isNotEmpty(_cards))
                               Semantics(
@@ -305,7 +304,9 @@ class _WalletPageState extends EventHubState<WalletPage> {
                                 excludeSemantics: true,
                               ),
                             const SizedBox(height: 32),
-                            // _hasAddedToWallet == false ? _walletArea() : _openWidgetButton(),
+                            // _hasAddedToWallet == false
+                            //     ? _walletArea()
+                            //     : _openWidgetButton(),
                             if (ObjectUtil.isNotEmpty(_cards) &&
                                 result.isLoading == false)
                               // GooglePay(amount: '99.9'),
@@ -714,31 +715,22 @@ class _WalletPageState extends EventHubState<WalletPage> {
                 color: style.primaryColor)),
         Semantics(
             button: true,
-            child: JhButton(
-                onPressed: () {
-                  showModalBottomSheet(
-                    context: context,
-                    // enableDrag: false,
-                    // isDismissible: false,
-                    builder: (context) {
-                      return Wrap(
-                        children: [
-                          AppleWalletDynamic(offer: item),
-                        ],
-                      );
-                    },
-                  );
-                },
-                borderRadius: BorderRadius.circular(8),
-                width: 182,
-                height: 40,
-                text: Platform.isIOS == true
-                    ? tr('Dynamic  Wallet')
-                    : tr('Dynamic Google Wallet'),
-                fontSize: 15,
-                weight: FontWeight.w600,
-                textColor: Colors.white,
-                color: style.primaryColor)),
+            child: SkuxAddWallet(
+              onClick: () {
+                showModalBottomSheet(
+                  context: context,
+                  // enableDrag: false,
+                  // isDismissible: false,
+                  builder: (context) {
+                    return Wrap(
+                      children: [
+                        AppleWalletDynamic(offer: item),
+                      ],
+                    );
+                  },
+                );
+              },
+            )),
       ],
     ));
   }

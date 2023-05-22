@@ -35,14 +35,13 @@ class _AppleWallet extends State<AppleWallet> {
 
   @override
   Widget build(BuildContext context) {
-    initPlatformState();
-    // if (Platform.isIOS) {
-    //   initPlatformState();
-    // } else {
-    //   setState(() {
-    //     _passLoaded = true;
-    //   });
-    // }
+    if (Platform.isIOS) {
+      initPlatformState();
+    } else {
+      setState(() {
+        _passLoaded = true;
+      });
+    }
 
     return (Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -59,14 +58,20 @@ class _AppleWallet extends State<AppleWallet> {
                   color: Colors.white,
                   child: Center(
                     child: _passLoaded
-                        ? AddToWalletButton(
-                            pkPass: _pkPassData,
-                            unsupportedPlatformChild:
-                                GoogleWallet(offer: widget.offer),
-                            onPressed: () {
-                              print("🎊Add to Wallet button Pressed!🎊");
-                            },
-                          )
+                        ? Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                                AddToWalletButton(
+                                  pkPass: _pkPassData,
+                                  width: 150,
+                                  height: 60,
+                                  unsupportedPlatformChild:
+                                      GoogleWallet(offer: widget.offer),
+                                  onPressed: () {
+                                    print("🎊Add to Wallet button Pressed!🎊");
+                                  },
+                                )
+                              ])
                         : Center(
                             child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,

@@ -42,22 +42,15 @@ class _AppleWalletDynamic extends State<AppleWalletDynamic> {
     });
   }
 
-  String decrypt() {
-    String result = extractPayload();
-  }
-
   @override
   Widget build(BuildContext context) {
-    decrypt();
-    // initPlatformState();
-
-    // if (Platform.isIOS) {
-    //   initPlatformState();
-    // } else {
-    //   setState(() {
-    //     _passLoaded = true;
-    //   });
-    // }
+    if (Platform.isIOS) {
+      initPlatformState();
+    } else {
+      setState(() {
+        _passLoaded = true;
+      });
+    }
 
     return (Column(
       crossAxisAlignment: CrossAxisAlignment.start,

@@ -1,4 +1,6 @@
 PODS:
+  - add_to_wallet (0.0.1):
+    - Flutter
   - address_search_field (4.0.1):
     - Flutter
   - connectivity_plus (0.0.1):
@@ -8,6 +10,34 @@ PODS:
     - Flutter
   - easy_pdf_viewer (1.0.1):
     - Flutter
+  - Firebase/CoreOnly (10.7.0):
+    - FirebaseCore (= 10.7.0)
+  - Firebase/Storage (10.7.0):
+    - Firebase/CoreOnly
+    - FirebaseStorage (~> 10.7.0)
+  - firebase_core (2.12.0):
+    - Firebase/CoreOnly (= 10.7.0)
+    - Flutter
+  - firebase_storage (11.2.0):
+    - Firebase/Storage (= 10.7.0)
+    - firebase_core
+    - Flutter
+  - FirebaseAppCheckInterop (10.9.0)
+  - FirebaseAuthInterop (10.9.0)
+  - FirebaseCore (10.7.0):
+    - FirebaseCoreInternal (~> 10.0)
+    - GoogleUtilities/Environment (~> 7.8)
+    - GoogleUtilities/Logger (~> 7.8)
+  - FirebaseCoreExtension (10.9.0):
+    - FirebaseCore (~> 10.0)
+  - FirebaseCoreInternal (10.9.0):
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+  - FirebaseStorage (10.7.0):
+    - FirebaseAppCheckInterop (~> 10.0)
+    - FirebaseAuthInterop (~> 10.0)
+    - FirebaseCore (~> 10.0)
+    - FirebaseCoreExtension (~> 10.0)
+    - GTMSessionFetcher/Core (< 4.0, >= 2.1)
   - Flutter (1.0.0)
   - flutter_image_compress (1.0.0):
     - Flutter
@@ -33,11 +63,17 @@ PODS:
   - google_maps_flutter_ios (0.0.1):
     - Flutter
     - GoogleMaps
-  - GoogleMaps (7.3.0):
-    - GoogleMaps/Maps (= 7.3.0)
-  - GoogleMaps/Base (7.3.0)
-  - GoogleMaps/Maps (7.3.0):
+  - GoogleMaps (8.0.0):
+    - GoogleMaps/Maps (= 8.0.0)
+  - GoogleMaps/Base (8.0.0)
+  - GoogleMaps/Maps (8.0.0):
     - GoogleMaps/Base
+  - GoogleUtilities/Environment (7.11.1):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.11.1):
+    - GoogleUtilities/Environment
+  - "GoogleUtilities/NSData+zlib (7.11.1)"
+  - GTMSessionFetcher/Core (3.1.1)
   - image_cropper (0.0.4):
     - Flutter
     - TOCropViewController (~> 2.6.1)
@@ -68,6 +104,8 @@ PODS:
   - path_provider_foundation (0.0.1):
     - Flutter
     - FlutterMacOS
+  - pay_ios (0.0.1):
+    - Flutter
   - PhoneNumberKit (3.3.4):
     - PhoneNumberKit/PhoneNumberKitCore (= 3.3.4)
     - PhoneNumberKit/UIKit (= 3.3.4)
@@ -76,13 +114,14 @@ PODS:
     - PhoneNumberKit/PhoneNumberKitCore
   - platform_device_id (0.0.1):
     - Flutter
+  - PromisesObjC (2.2.0)
   - ReachabilitySwift (5.0.0)
   - scan (0.0.1):
     - Flutter
-  - SDWebImage (5.15.2):
-    - SDWebImage/Core (= 5.15.2)
-  - SDWebImage/Core (5.15.2)
-  - SDWebImageWebPCoder (0.10.1):
+  - SDWebImage (5.15.8):
+    - SDWebImage/Core (= 5.15.8)
+  - SDWebImage/Core (5.15.8)
+  - SDWebImageWebPCoder (0.11.0):
     - libwebp (~> 1.0)
     - SDWebImage/Core (~> 5.15)
   - sensors (0.0.1):
@@ -106,10 +145,13 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
+  - add_to_wallet (from `.symlinks/plugins/add_to_wallet/ios`)
   - address_search_field (from `.symlinks/plugins/address_search_field/ios`)
   - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
   - device_info (from `.symlinks/plugins/device_info/ios`)
   - easy_pdf_viewer (from `.symlinks/plugins/easy_pdf_viewer/ios`)
+  - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
+  - firebase_storage (from `.symlinks/plugins/firebase_storage/ios`)
   - Flutter (from `Flutter`)
   - flutter_image_compress (from `.symlinks/plugins/flutter_image_compress/ios`)
   - flutter_inappwebview (from `.symlinks/plugins/flutter_inappwebview/ios`)
@@ -124,6 +166,7 @@ DEPENDENCIES:
   - map_launcher (from `.symlinks/plugins/map_launcher/ios`)
   - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
   - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+  - pay_ios (from `.symlinks/plugins/pay_ios/ios`)
   - platform_device_id (from `.symlinks/plugins/platform_device_id/ios`)
   - scan (from `.symlinks/plugins/scan/ios`)
   - sensors (from `.symlinks/plugins/sensors/ios`)
@@ -137,18 +180,30 @@ DEPENDENCIES:
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
+    - Firebase
+    - FirebaseAppCheckInterop
+    - FirebaseAuthInterop
+    - FirebaseCore
+    - FirebaseCoreExtension
+    - FirebaseCoreInternal
+    - FirebaseStorage
     - FMDB
     - GoogleMaps
+    - GoogleUtilities
+    - GTMSessionFetcher
     - libwebp
     - Mantle
     - OrderedSet
     - PhoneNumberKit
+    - PromisesObjC
     - ReachabilitySwift
     - SDWebImage
     - SDWebImageWebPCoder
     - TOCropViewController
 
 EXTERNAL SOURCES:
+  add_to_wallet:
+    :path: ".symlinks/plugins/add_to_wallet/ios"
   address_search_field:
     :path: ".symlinks/plugins/address_search_field/ios"
   connectivity_plus:
@@ -157,6 +212,10 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/device_info/ios"
   easy_pdf_viewer:
     :path: ".symlinks/plugins/easy_pdf_viewer/ios"
+  firebase_core:
+    :path: ".symlinks/plugins/firebase_core/ios"
+  firebase_storage:
+    :path: ".symlinks/plugins/firebase_storage/ios"
   Flutter:
     :path: Flutter
   flutter_image_compress:
@@ -185,6 +244,8 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/package_info_plus/ios"
   path_provider_foundation:
     :path: ".symlinks/plugins/path_provider_foundation/ios"
+  pay_ios:
+    :path: ".symlinks/plugins/pay_ios/ios"
   platform_device_id:
     :path: ".symlinks/plugins/platform_device_id/ios"
   scan:
@@ -207,10 +268,20 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
 
 SPEC CHECKSUMS:
+  add_to_wallet: 2491cbd051f7bcdc2f964b6c5836e832823de1fc
   address_search_field: 6b30c40d27225cebe78d7157679767d435f31b0a
   connectivity_plus: 413a8857dd5d9f1c399a39130850d02fe0feaf7e
   device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
   easy_pdf_viewer: 0b396564ff0e65320c2a505551fb6de05d57f512
+  Firebase: 0219acf760880eeec8ce479895bd7767466d9f81
+  firebase_core: 312d0d81b346ec20540822c8498e626d6918ef48
+  firebase_storage: d093441a28c685ff955d87f710588b83e1a4815f
+  FirebaseAppCheckInterop: e69dde5cd51b88ee1b4339d6766b691272256f9b
+  FirebaseAuthInterop: e53c08e60a02de17d1ab77c5032db8ae22d3a799
+  FirebaseCore: e317665b9d744727a97e623edbbed009320afdd7
+  FirebaseCoreExtension: d3e9bba2930a8033042112397cd9f006a1bb203d
+  FirebaseCoreInternal: d2b4acb827908e72eca47a9fd896767c3053921e
+  FirebaseStorage: 4841efa304543e1f9e4ca116c559c7a1ea2a9d0f
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   flutter_image_compress: 5a5e9aee05b6553048b8df1c3bc456d0afaac433
   flutter_inappwebview: bfd58618f49dc62f2676de690fc6dcda1d6c3721
@@ -219,7 +290,9 @@ SPEC CHECKSUMS:
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   geolocator_apple: cc556e6844d508c95df1e87e3ea6fa4e58c50401
   google_maps_flutter_ios: 53f75334bad87ccd0473f4b0142756169846b42b
-  GoogleMaps: a146f275ee429d14822178c7a841c03366ec92a1
+  GoogleMaps: 0dce473ab18742d0f327887853630927cbee9127
+  GoogleUtilities: 9aa0ad5a7bc171f8bae016300bfcfa3fb8425749
+  GTMSessionFetcher: e8647203b65cee28c5f73d0f473d096653945e72
   image_cropper: 60c2789d1f1a78c873235d4319ca0c34a69f2d98
   image_picker_ios: 58b9c4269cb176f89acea5e5d043c9358f2d25f8
   libphonenumber_plugin: e8a7d64a6624a7c25f2c4ab0b7ead2a8e341e35e
@@ -230,12 +303,14 @@ SPEC CHECKSUMS:
   OrderedSet: aaeb196f7fef5a9edf55d89760da9176ad40b93c
   package_info_plus: 6c92f08e1f853dc01228d6f553146438dafcd14e
   path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
+  pay_ios: 8c7beb9c61d885f3f51b61f75f8793023fc8843a
   PhoneNumberKit: 441e8b26ec88d598e3591de9061eff18f5dd12e8
   platform_device_id: 81b3e2993881f87d0c82ef151dc274df4869aef5
+  PromisesObjC: 09985d6d70fbe7878040aa746d78236e6946d2ef
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
   scan: aea35bb4aa59ccc8839c576a18cd57c7d492cc86
-  SDWebImage: 8ab87d4b3e5cc4927bd47f78db6ceb0b94442577
-  SDWebImageWebPCoder: 4851414d9f8894e328e8b97c93ea4f4f4e4418ae
+  SDWebImage: cb032eba469c54e0000e78bcb0a13cdde0a52798
+  SDWebImageWebPCoder: 295a6573c512f54ad2dd58098e64e17dcf008499
   sensors: 84eb7a30e47a649e4172b71d6e81be614c280336
   sensors_plus: 5717760720f7e6acd96fdbd75b7428f5ad755ec2
   share: 0b2c3e82132f5888bccca3351c504d0003b3b410
@@ -248,4 +323,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: c70c1667112974be95e81856a18ebb6b9274661c
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.12.1
